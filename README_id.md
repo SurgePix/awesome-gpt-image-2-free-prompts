@@ -21,7 +21,7 @@ Prompt pilihan · Pratinjau gambar · Salin & buat dengan 1 klik · Multibahasa 
 [![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
 [![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
 
-[**→ Jelajahi Perpustakaan Lengkap**](https://surgepix.ai/resources/gpt-image-2-prompts)
+[**→ Jelajahi Perpustakaan Lengkap**](https://surgepix.ai/resources/id/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/id/gpt-image-2-prompts)
 </div>

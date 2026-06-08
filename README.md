@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://surgepix.ai/favicon.ico" width="64" alt="SurgePix Logo" />
+<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/banner.png" alt="SurgePix Banner" style="max-width: 100%;" />
 
 # 🎨 Awesome GPT-Image-2 Free Prompts
 
@@ -22,7 +22,7 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 [![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
 
 [**→ Browse the Full Library**](https://surgepix.ai/resources/gpt-image-2-prompts)
-
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/gpt-image-2-prompts)
 </div>
 
 ---

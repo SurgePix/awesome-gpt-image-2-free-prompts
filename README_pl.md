@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://surgepix.ai/favicon.ico" width="64" alt="SurgePix Logo" />
+<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-banner.png" alt="SurgePix Banner" style="max-width: 100%;" />
 
 # 🎨 Awesome GPT-Image-2 Darmowe Prompty
 
@@ -21,8 +21,9 @@ Wyselekcjonowane prompty · Podgląd obrazów · Kopiowanie i generowanie jednym
 [![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
 [![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
 
-[**→ Przeglądaj Pełną Bibliotekę**](https://surgepix.ai/resources/gpt-image-2-prompts)
+[**→ Przeglądaj Pełną Bibliotekę**](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
 
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-gpt-image-2-prompt.png)](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
 </div>
 
 ---
@@ -68,7 +69,7 @@ Biblioteka dostępna jest w wielu językach, a kolejne są regularnie dodawane:
 ## 🚀 Jak Używać
 
 **Opcja 1 — Użyj strony internetowej (zalecane)**
-1. Przejdź na [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/gpt-image-2-prompts)
+1. Przejdź na [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
 2. Przeglądaj lub filtruj według kategorii
 3. Kliknij **Kopiuj**, aby skopiować prompt, lub **Generuj**, aby stworzyć obraz bezpośrednio
 
@@ -94,7 +95,7 @@ GPT-Image-2 to najnowszy model generowania obrazów OpenAI, znany z:
 - Precyzyjnego realizowania szczegółowych instrukcji
 - Wysokiej jakości plakatów, infografik, makiet UI i arkuszy postaci
 
-Dowiedz się więcej: [Przewodnik GPT-Image-2 od SurgePix](https://surgepix.ai/blog/resources/chatgpt-images-2-0)
+Dowiedz się więcej: [Przewodnik GPT-Image-2 od SurgePix](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
 
 ---
 
@@ -103,7 +104,7 @@ Dowiedz się więcej: [Przewodnik GPT-Image-2 od SurgePix](https://surgepix.ai/b
 | Narzędzie | Link |
 |---|---|
 | 🤖 Generator obrazów AI | [surgepix.ai](https://surgepix.ai) |
-| 📊 Biblioteka promptów PPT | [Awesome PPT Prompts](https://surgepix.ai/resources/awesome-ppt-prompts) |
+| 📊 Biblioteka promptów PPT | [Awesome PPT Prompts](https://surgepix.ai/resources/pl/awesome-ppt-prompts) |
 | 🖼️ PDF do JPG | [Narzędzie](https://surgepix.ai/tools/operation?type=1) |
 | ✂️ Zmiana rozmiaru obrazu | [Narzędzie](https://surgepix.ai/tools/operation?type=4) |
 | 📺 Twórca banerów YouTube | [Narzędzie](https://surgepix.ai/tools/operation?type=5) |

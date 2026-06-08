@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://surgepix.ai/favicon.ico" width="64" alt="SurgePix Logo" />
+<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-banner.png" alt="SurgePix Banner" style="max-width: 100%;" />
 
 # 🎨 Awesome GPT-Image-2 免费提示词库
 
@@ -21,8 +21,9 @@
 [![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
 [![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
 
-[**→ 浏览完整提示词库**](https://surgepix.ai/resources/gpt-image-2-prompts)
+[**→ 浏览完整提示词库**](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
 
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-gpt-image-2-prompt-character.png)](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
 </div>
 
 ---
@@ -68,7 +69,7 @@
 ## 🚀 使用方法
 
 **方式一 — 使用网站（推荐）**
-1. 前往 [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/gpt-image-2-prompts)
+1. 前往 [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
 2. 浏览或按分类筛选
 3. 点击 **复制** 复制提示词，或点击 **生成** 直接创作图片
 
@@ -103,7 +104,7 @@ GPT-Image-2 是 OpenAI 最新的图像生成模型，以下为其核心优势：
 | 工具 | 链接 |
 |---|---|
 | 🤖 AI 图像生成器 | [surgepix.ai](https://surgepix.ai) |
-| 📊 PPT 提示词库 | [Awesome PPT Prompts](https://surgepix.ai/resources/awesome-ppt-prompts) |
+| 📊 PPT 提示词库 | [Awesome PPT Prompts](https://surgepix.ai/resources/zh/awesome-ppt-prompts) |
 | 🖼️ PDF 转 JPG | [工具](https://surgepix.ai/tools/operation?type=1) |
 | ✂️ 图片尺寸调整 | [工具](https://surgepix.ai/tools/operation?type=4) |
 | 📺 YouTube 横幅制作 | [工具](https://surgepix.ai/tools/operation?type=5) |

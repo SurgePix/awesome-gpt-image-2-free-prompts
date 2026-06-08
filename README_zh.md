@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-banner.png" alt="SurgePix Banner" style="max-width: 100%;" />
+<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
 
 # 🎨 Awesome GPT-Image-2 免费提示词库
 

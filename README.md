@@ -10,6 +10,13 @@
 
 Curated prompts · Preview images · 1-click copy & generate · Multilingual · Weekly updated
 
+[![EN](https://img.shields.io/badge/EN-English-blue?style=flat-square)](#)
+[![ZH](https://img.shields.io/badge/ZH-%E4%B8%AD%E6%96%87-red?style=flat-square)](README_zh.md)
+[![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-orange?style=flat-square)](README_tr.md)
+[![VI](https://img.shields.io/badge/VI-Ti%E1%BA%BFng%20Vi%E1%BB%87t-green?style=flat-square)](README_vi.md)
+[![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
+[![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
+
 [![Prompts](https://img.shields.io/badge/Prompts-367%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
 [![Weekly Updated](https://img.shields.io/badge/Updated-Weekly-4ecdc4?style=flat-square)](#)
 [![Languages](https://img.shields.io/badge/Languages-6%2B-45b7d1?style=flat-square)](#-multilingual-support)

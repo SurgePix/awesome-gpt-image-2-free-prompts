@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://surgepix.ai/favicon.ico" width="64" alt="SurgePix Logo" />
+<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-banner.png" alt="SurgePix Banner" style="max-width: 100%;" />
 
 # 🎨 Awesome GPT-Image-2 Prompt Miễn Phí
 
@@ -21,8 +21,9 @@ Prompt được tuyển chọn · Ảnh xem trước · Sao chép & tạo ảnh 
 [![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
 [![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
 
-[**→ Xem Toàn Bộ Thư Viện**](https://surgepix.ai/resources/gpt-image-2-prompts)
+[**→ Xem Toàn Bộ Thư Viện**](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
 
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
 </div>
 
 ---
@@ -68,7 +69,7 @@ Thư viện hỗ trợ nhiều ngôn ngữ và sẽ tiếp tục bổ sung thêm
 ## 🚀 Cách Sử Dụng
 
 **Cách 1 — Dùng website (khuyến nghị)**
-1. Truy cập [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/gpt-image-2-prompts)
+1. Truy cập [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
 2. Duyệt hoặc lọc theo danh mục
 3. Nhấn **Sao chép** để lấy prompt, hoặc **Tạo ảnh** để tạo trực tiếp
 
@@ -103,7 +104,7 @@ Tìm hiểu thêm: [Hướng dẫn GPT-Image-2 của SurgePix](https://surgepix.
 | Công cụ | Liên kết |
 |---|---|
 | 🤖 Tạo ảnh AI | [surgepix.ai](https://surgepix.ai) |
-| 📊 Thư viện Prompt PPT | [Awesome PPT Prompts](https://surgepix.ai/resources/awesome-ppt-prompts) |
+| 📊 Thư viện Prompt PPT | [Awesome PPT Prompts](https://surgepix.ai/resources/vi/awesome-ppt-prompts) |
 | 🖼️ PDF sang JPG | [Công cụ](https://surgepix.ai/tools/operation?type=1) |
 | ✂️ Thay đổi kích thước ảnh | [Công cụ](https://surgepix.ai/tools/operation?type=4) |
 | 📺 Tạo banner YouTube | [Công cụ](https://surgepix.ai/tools/operation?type=5) |

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://surgepix.ai/favicon.ico" width="64" alt="SurgePix Logo" />
+<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-banner.png" alt="SurgePix Banner" style="max-width: 100%;" />
 
 # 🎨 Awesome GPT-Image-2 Ücretsiz Promptlar
 
@@ -21,8 +21,9 @@ Seçilmiş promptlar · Önizleme görselleri · Tek tıkla kopyala & oluştur �
 [![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
 [![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
 
-[**→ Tam Kütüphaneye Göz At**](https://surgepix.ai/resources/gpt-image-2-prompts)
+[**→ Tam Kütüphaneye Göz At**](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
 
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-gpt-image-2-general-prompt.png)](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
 </div>
 
 ---
@@ -68,7 +69,7 @@ Kütüphane birden fazla dilde kullanılabilir ve yeni diller düzenli olarak ek
 ## 🚀 Nasıl Kullanılır
 
 **Seçenek 1 — Web sitesini kullan (önerilen)**
-1. [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/gpt-image-2-prompts) adresine git
+1. [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/tr/gpt-image-2-prompts) adresine git
 2. Gözat veya kategoriye göre filtrele
 3. **Kopyala**'ya tıkla ya da **Oluştur**'a tıklayarak doğrudan görsel oluştur
 
@@ -103,7 +104,7 @@ Daha fazlası için: [SurgePix GPT-Image-2 Rehberi](https://surgepix.ai/blog/res
 | Araç | Bağlantı |
 |---|---|
 | 🤖 AI Görsel Oluşturucu | [surgepix.ai](https://surgepix.ai) |
-| 📊 PPT Prompt Kütüphanesi | [Awesome PPT Prompts](https://surgepix.ai/resources/awesome-ppt-prompts) |
+| 📊 PPT Prompt Kütüphanesi | [Awesome PPT Prompts](https://surgepix.ai/resources/tr/awesome-ppt-prompts) |
 | 🖼️ PDF'den JPG'ye | [Araç](https://surgepix.ai/tools/operation?type=1) |
 | ✂️ Görsel Yeniden Boyutlandırma | [Araç](https://surgepix.ai/tools/operation?type=4) |
 | 📺 YouTube Banner Yapıcı | [Araç](https://surgepix.ai/tools/operation?type=5) |

@@ -6,10 +6,10 @@
 
 **The most comprehensive free prompt library for GPT-Image-2**
 
-Curated prompts · Preview images · 1-click copy & generate · Multilingual · Daily updated
+Curated prompts · Preview images · 1-click copy & generate · Multilingual · Weekly updated
 
 [![Prompts](https://img.shields.io/badge/Prompts-367%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
-[![Daily Updated](https://img.shields.io/badge/Updated-Daily-4ecdc4?style=flat-square)](#)
+[![Weekly Updated](https://img.shields.io/badge/Updated-Weekly-4ecdc4?style=flat-square)](#)
 [![Languages](https://img.shields.io/badge/Languages-6%2B-45b7d1?style=flat-square)](#-multilingual-support)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
@@ -52,7 +52,7 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 </tr>
 <tr>
 <td>✏️ Illustration</td>
-<td>🎄 Seasonal / Holiday</td>
+<td>🎄 Festival / Holiday</td>
 <td>🎭 Character</td>
 <td>➕ More added regularly</td>
 </tr>
@@ -113,7 +113,14 @@ Learn more: [GPT-Image-2 Guide by SurgePix](https://surgepix.ai/blog/resources/c
 | 🤖 AI Image Generator | [surgepix.ai](https://surgepix.ai) |
 | 📊 PPT Prompt Library | [Awesome PPT Prompts](https://surgepix.ai/resources/awesome-ppt-prompts) |
 | 🖼️ PDF to JPG | [Tool](https://surgepix.ai/tools/operation?type=1) |
-| ✂️ AI Hairstyle | [Tool](https://surgepix.ai/tools/operation?type=6) |
+| ✂️ Image Resizer | [Tool](https://surgepix.ai/tools/operation?type=4) |
+| 📺 YouTube Banner Maker | [Tool](https://surgepix.ai/tools/operation?type=5) |
+| 💇 AI Hairstyle | [Tool](https://surgepix.ai/tools/operation?type=6) |
+| 👨‍🍼 Happy Fathers Day | [Tool](https://surgepix.ai/tools/operation?type=7) |
+| 👩‍🍼 Happy Mothers Day | [Tool](https://surgepix.ai/tools/operation?type=8) |
+| 📊 Bar Graph Maker | [Tool](https://surgepix.ai/tools/operation?type=9) |
+| 🫓 Pie Chart Maker | [Tool](https://surgepix.ai/tools/operation?type=10) |
+| 🍪 Venn Diagram Maker | [Tool](https://surgepix.ai/tools/operation?type=11) |
 
 ---
 
@@ -127,6 +134,6 @@ Learn more: [GPT-Image-2 Guide by SurgePix](https://surgepix.ai/blog/resources/c
 
 <div align="center">
 
-Made with ❤️ by [SurgePix](https://surgepix.ai) · Updated daily · Free forever
+Made with ❤️ by [SurgePix](https://surgepix.ai) · Updated weekly · Free forever
 
 </div>

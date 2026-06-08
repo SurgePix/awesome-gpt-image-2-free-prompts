@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://surgepix.ai/favicon.ico" width="64" alt="SurgePix Logo" />
+<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-banner.png" alt="SurgePix Banner" style="max-width: 100%;" />
 
 # 🎨 Awesome GPT-Image-2 Prompt Gratis
 
@@ -23,6 +23,7 @@ Prompt pilihan · Pratinjau gambar · Salin & buat dengan 1 klik · Multibahasa 
 
 [**→ Jelajahi Perpustakaan Lengkap**](https://surgepix.ai/resources/gpt-image-2-prompts)
 
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/id/gpt-image-2-prompts)
 </div>
 
 ---
@@ -68,7 +69,7 @@ Perpustakaan ini tersedia dalam berbagai bahasa dan terus bertambah:
 ## 🚀 Cara Menggunakan
 
 **Opsi 1 — Gunakan website (disarankan)**
-1. Buka [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/gpt-image-2-prompts)
+1. Buka [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/id/gpt-image-2-prompts)
 2. Jelajahi atau filter berdasarkan kategori
 3. Klik **Salin** untuk menyalin prompt, atau **Buat** untuk langsung membuat gambar
 
@@ -103,7 +104,7 @@ Pelajari lebih lanjut: [Panduan GPT-Image-2 oleh SurgePix](https://surgepix.ai/b
 | Alat | Tautan |
 |---|---|
 | 🤖 Generator Gambar AI | [surgepix.ai](https://surgepix.ai) |
-| 📊 Perpustakaan Prompt PPT | [Awesome PPT Prompts](https://surgepix.ai/resources/awesome-ppt-prompts) |
+| 📊 Perpustakaan Prompt PPT | [Awesome PPT Prompts](https://surgepix.ai/resources/id/awesome-ppt-prompts) |
 | 🖼️ PDF ke JPG | [Alat](https://surgepix.ai/tools/operation?type=1) |
 | ✂️ Pengubah Ukuran Gambar | [Alat](https://surgepix.ai/tools/operation?type=4) |
 | 📺 Pembuat Banner YouTube | [Alat](https://surgepix.ai/tools/operation?type=5) |

@@ -1,7 +1,5 @@
 <div align="center">
 
-[English](#) · [中文](README_zh.md) · [Türkçe](README_tr.md) · [Tiếng Việt](README_vi.md) · [Polski](README_pl.md) · [Bahasa Indonesia](README_id.md)
-
 <img src="https://surgepix.ai/favicon.ico" width="64" alt="SurgePix Logo" />
 
 # 🎨 Awesome GPT-Image-2 Free Prompts

@@ -2,10 +2,12 @@
 
 <img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
 
+</div>
+
+# 🎨 Awesome GPT-Image-2 Prompt Gratis
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
-# 🎨 Awesome GPT-Image-2 Prompt Gratis
 
 **Perpustakaan prompt GPT-Image-2 gratis paling lengkap**
 
@@ -28,10 +30,21 @@ Prompt pilihan · Pratinjau gambar · Salin & buat dengan 1 klik · Multibahasa 
 > tipografi, UI/UX, screenshot game, desain karakter, dan ilustrasi komersial.
 > 500+ prompt siap pakai, tersedia dalam berbagai bahasa.
 
+## Daftar Isi
+
+- [Fitur](#features)
+- [Kategori](#categories)
+- [Prompt Unggulan](#featured-prompts)
+- [Dukungan Multibahasa](#multilingual-support)
+- [Cara Menggunakan](#how-to-use)
+- [Pelacakan Sumber](#source-tracing)
+- [Tentang GPT-Image-2](#about-gpt-image-2)
+- [Kontribusi](CONTRIBUTING.md)
+
 [**→ Jelajahi Perpustakaan Lengkap**](https://surgepix.ai/resources/id/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/id/gpt-image-2-prompts)
-</div>
+
 
 ---
 

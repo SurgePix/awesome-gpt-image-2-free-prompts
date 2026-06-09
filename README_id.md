@@ -21,6 +21,10 @@ Prompt pilihan · Pratinjau gambar · Salin & buat dengan 1 klik · Multibahasa 
 [![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
 [![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
 
+> Perpustakaan **prompt GPT Image 2** gratis terbesar — mencakup fotorealisme,
+> tipografi, UI/UX, screenshot game, desain karakter, dan ilustrasi komersial.
+> 500+ prompt siap pakai, tersedia dalam berbagai bahasa.
+
 [**→ Jelajahi Perpustakaan Lengkap**](https://surgepix.ai/resources/id/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/id/gpt-image-2-prompts)

@@ -2,10 +2,12 @@
 
 <img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
 
+</div>
+
+# 🎨 Awesome GPT-Image-2 Prompt Miễn Phí
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
-# 🎨 Awesome GPT-Image-2 Prompt Miễn Phí
 
 **Thư viện prompt GPT-Image-2 miễn phí toàn diện nhất**
 
@@ -28,10 +30,20 @@ Prompt được tuyển chọn · Ảnh xem trước · Sao chép & tạo ảnh 
 > typography, UI/UX, ảnh chụp màn hình game, thiết kế nhân vật và minh họa thương mại.
 > 500+ prompt sẵn sàng sử dụng, hỗ trợ nhiều ngôn ngữ.
 
+## Mục lục
+
+- [Tính năng](#features)
+- [Danh mục](#categories)
+- [Prompt Nổi bật](#featured-prompts)
+- [Hỗ trợ đa ngôn ngữ](#multilingual-support)
+- [Cách sử dụng](#how-to-use)
+- [Truy xuất nguồn gốc](#source-tracing)
+- [Về GPT-Image-2](#about-gpt-image-2)
+- [Đóng góp](CONTRIBUTING.md)
+
 [**→ Xem Toàn Bộ Thư Viện**](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
-</div>
 
 ---
 

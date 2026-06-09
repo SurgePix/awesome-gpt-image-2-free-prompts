@@ -21,6 +21,9 @@
 [![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
 [![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
 
+> 超大的免费 **GPT Image 2 提示词**库 — 涵盖真实摄影、文字排版、UI/UX、
+> 游戏截图、角色设计和商业插画。即用提示词，支持多种语言。
+
 [**→ 浏览完整提示词库**](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-gpt-image-2-prompt-character.png)](https://surgepix.ai/resources/zh/gpt-image-2-prompts)

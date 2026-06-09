@@ -2,10 +2,12 @@
 
 <img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
 
+</div>
+
+# 🎨 Awesome GPT-Image-2 Ücretsiz Promptlar
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
-# 🎨 Awesome GPT-Image-2 Ücretsiz Promptlar
 
 **GPT-Image-2 için en kapsamlı ücretsiz prompt kütüphanesi**
 
@@ -28,10 +30,21 @@ Seçilmiş promptlar · Önizleme görselleri · Tek tıkla kopyala & oluştur �
 > UI/UX, oyun ekran görüntüleri, karakter tasarımı ve ticari illüstrasyonu kapsar.
 > Birden fazla dilde 500+ kullanıma hazır prompt.
 
+## İçindekiler
+
+- [Özellikler](#features)
+- [Kategoriler](#categories)
+- [Öne Çıkan Promptlar](#featured-prompts)
+- [Çok Dilli Destek](#multilingual-support)
+- [Nasıl Kullanılır](#how-to-use)
+- [Kaynak Takibi](#source-tracing)
+- [GPT-Image-2 Hakkında](#about-gpt-image-2)
+- [Katkıda Bulunma](CONTRIBUTING.md)
+  
 [**→ Tam Kütüphaneye Göz At**](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-gpt-image-2-general-prompt.png)](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
-</div>
+
 
 ---
 

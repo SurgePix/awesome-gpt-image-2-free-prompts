@@ -1,14 +1,14 @@
 <div align="center">
 
 <img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
+</div>
 
+# 🎨 Awesome GPT-Image-2 免费提示词库
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
-# 🎨 Awesome GPT-Image-2 免费提示词库
 
 **最全面的 GPT-Image-2 免费提示词库**
-
 精选提示词 · 预览图 · 一键复制与生成 · 多语言 · 定期更新
 
 [![Prompts](https://img.shields.io/badge/提示词-367%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
@@ -26,6 +26,17 @@
 
 > 超大的免费 **GPT Image 2 提示词**库 — 涵盖真实摄影、文字排版、UI/UX、
 > 游戏截图、角色设计和商业插画。即用提示词，支持多种语言。
+
+## 目录
+
+- [功能特色](#features)
+- [分类](#categories)
+- [精选提示词](#featured-prompts)
+- [多语言支持](#multilingual-support)
+- [使用方法](#how-to-use)
+- [来源追踪](#source-tracing)
+- [关于 GPT-Image-2](#about-gpt-image-2)
+- [贡献](CONTRIBUTING.md)
 
 [**→ 浏览完整提示词库**](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
 

@@ -24,7 +24,7 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 > The largest free library of **GPT Image 2 prompts** — covering photorealism, 
 > typography, UI/UX mockups, game screenshots, character design, and commercial 
 > illustration. 500+ copy-ready prompts for OpenAI's gpt-image-2 model. 
-> Free & open source, 6 languages.
+> Free & open source, multi languages.
 
 [**→ Browse the Full Library**](https://surgepix.ai/resources/gpt-image-2-prompts)
 

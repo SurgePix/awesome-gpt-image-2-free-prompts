@@ -21,6 +21,10 @@ Prompt được tuyển chọn · Ảnh xem trước · Sao chép & tạo ảnh 
 [![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
 [![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
 
+> Thư viện **prompt GPT Image 2** miễn phí lớn nhất — bao gồm chân thực,
+> typography, UI/UX, ảnh chụp màn hình game, thiết kế nhân vật và minh họa thương mại.
+> 500+ prompt sẵn sàng sử dụng, hỗ trợ nhiều ngôn ngữ.
+
 [**→ Xem Toàn Bộ Thư Viện**](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/vi/gpt-image-2-prompts)

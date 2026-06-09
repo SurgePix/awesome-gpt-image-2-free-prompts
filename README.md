@@ -360,6 +360,31 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 
 ---
 
+## 🌍 Multilingual Support
+ 
+The library is available in multiple languages, with more being added regularly:
+ 
+- 🇺🇸 English
+- 🇨🇳 中文 (Chinese)
+- 🇵🇱 Polski (Polish)
+- 🇻🇳 Tiếng Việt (Vietnamese)
+- 🇮🇩 Bahasa Indonesia
+- 🇹🇷 Türkçe (Turkish)
+- ➕ More languages coming soon
+---
+ 
+## 🚀 How to Use
+ 
+**Option 1 — Use the website (recommended)**
+1. Go to [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/gpt-image-2-prompts)
+2. Browse or filter by category
+3. Click **Copy** to copy the prompt, or **Generate** to create the image directly
+**Option 2 — Use prompts in ChatGPT / OpenAI API**
+1. Copy any prompt from the library
+2. Paste into ChatGPT (with GPT-Image-2 enabled) or the OpenAI Images API
+3. Adjust parameters as needed
+---
+
 ## 🔗 Source Tracing
 
 Community prompts include a direct link back to the original post on X (Twitter), Weibo, Reddit, or other platforms — so you can follow the creator, see the context, and give credit where it's due.

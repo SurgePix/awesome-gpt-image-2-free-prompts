@@ -2,16 +2,15 @@
 
 <img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
 
+</div>
+
+## 🎨 Awesome GPT Image 2 Prompts — Free & Open Source
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
 
-</div>
-# 🎨 Awesome GPT Image 2 Prompts — Free & Open Source
-
 **The most comprehensive free prompt library for GPT-Image-2**
-
 Curated prompts · Preview images · 1-click copy & generate · Multilingual · Weekly updated
 
 [![EN](https://img.shields.io/badge/EN-English-blue?style=flat-square)](#)
@@ -34,15 +33,12 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 
 ## Contents
 
-- [Photorealism](docs/categories/photorealism.md)
-- [Typography](docs/categories/typography.md)
-- [UI / UX](docs/categories/ui-ux.md)
-- [Game Screenshots](docs/categories/game-screenshots.md)
-- [Illustration](docs/categories/illustration.md)
-- [Character Design](docs/categories/character-design.md)
-- [Product & Marketing](docs/categories/product-marketing.md)
-- [Cultural & Regional](docs/categories/cultural.md)
-- [Usage Guide](docs/guide.md)
+- [Features](#-features)
+- [Categories](#️-categories)
+- [Multilingual Support](#-multilingual-support)
+- [How to Use](#-how-to-use)
+- [Source Tracing](#-source-tracing)
+- [About GPT-Image-2](#-about-gpt-image-2)
 - [Contributing](CONTRIBUTING.md)
 
 [**→ Browse the Full Library**](https://surgepix.ai/resources/gpt-image-2-prompts)

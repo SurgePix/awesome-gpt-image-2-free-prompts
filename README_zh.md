@@ -2,6 +2,9 @@
 
 <img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
 # 🎨 Awesome GPT-Image-2 免费提示词库
 
 **最全面的 GPT-Image-2 免费提示词库**

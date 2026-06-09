@@ -2,10 +2,12 @@
 
 <img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
 
+</div>
+
+# 🎨 Awesome GPT-Image-2 Darmowe Prompty
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
-# 🎨 Awesome GPT-Image-2 Darmowe Prompty
 
 **Najbardziej kompleksowa darmowa biblioteka promptów dla GPT-Image-2**
 
@@ -28,10 +30,21 @@ Wyselekcjonowane prompty · Podgląd obrazów · Kopiowanie i generowanie jednym
 > typografię, UI/UX, screenshoty z gier, projektowanie postaci i ilustrację komercyjną.
 > 500+ gotowych promptów, dostępnych w wielu językach.
 
+## Spis treści
+
+- [Funkcje](#features)
+- [Kategorie](#categories)
+- [Polecane prompty](#featured-prompts)
+- [Wsparcie wielojęzyczne](#multilingual-support)
+- [Jak używać](#how-to-use)
+- [Śledzenie źródeł](#source-tracing)
+- [O GPT-Image-2](#about-gpt-image-2)
+- [Wkład](CONTRIBUTING.md)
+
 [**→ Przeglądaj Pełną Bibliotekę**](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-gpt-image-2-prompt.png)](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
-</div>
+
 
 ---
 

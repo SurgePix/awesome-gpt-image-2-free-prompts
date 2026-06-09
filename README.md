@@ -2,7 +2,7 @@
 
 <img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
 
-# 🎨 Awesome GPT-Image-2 Free Prompts
+# 🎨 Awesome GPT Image 2 Prompts — Free & Open Source
 
 **The most comprehensive free prompt library for GPT-Image-2**
 
@@ -20,6 +20,11 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 [![Languages](https://img.shields.io/badge/Languages-6%2B-45b7d1?style=flat-square)](#-multilingual-support)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
+
+> The largest free library of **GPT Image 2 prompts** — covering photorealism, 
+> typography, UI/UX mockups, game screenshots, character design, and commercial 
+> illustration. 500+ copy-ready prompts for OpenAI's gpt-image-2 model. 
+> Free & open source, 6 languages.
 
 [**→ Browse the Full Library**](https://surgepix.ai/resources/gpt-image-2-prompts)
 

@@ -35,7 +35,7 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 
 - [Features](#-features)
 - [Categories](#️-categories)
-- [Categories](#️-featured-prompts)
+- [Featured Prompts](#️-featured-prompts)
 - [Multilingual Support](#-multilingual-support)
 - [How to Use](#-how-to-use)
 - [Source Tracing](#-source-tracing)

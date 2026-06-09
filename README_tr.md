@@ -21,6 +21,10 @@ Seçilmiş promptlar · Önizleme görselleri · Tek tıkla kopyala & oluştur �
 [![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
 [![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
 
+> En büyük ücretsiz **GPT Image 2 prompt** kütüphanesi — fotorealizm, tipografi,
+> UI/UX, oyun ekran görüntüleri, karakter tasarımı ve ticari illüstrasyonu kapsar.
+> Birden fazla dilde 500+ kullanıma hazır prompt.
+
 [**→ Tam Kütüphaneye Göz At**](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-gpt-image-2-general-prompt.png)](https://surgepix.ai/resources/tr/gpt-image-2-prompts)

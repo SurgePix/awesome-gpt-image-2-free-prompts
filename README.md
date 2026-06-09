@@ -32,6 +32,19 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 > illustration. 500+ copy-ready prompts for OpenAI's gpt-image-2 model. 
 > Free & open source, multi languages.
 
+## Contents
+
+- [Photorealism](docs/categories/photorealism.md)
+- [Typography](docs/categories/typography.md)
+- [UI / UX](docs/categories/ui-ux.md)
+- [Game Screenshots](docs/categories/game-screenshots.md)
+- [Illustration](docs/categories/illustration.md)
+- [Character Design](docs/categories/character-design.md)
+- [Product & Marketing](docs/categories/product-marketing.md)
+- [Cultural & Regional](docs/categories/cultural.md)
+- [Usage Guide](docs/guide.md)
+- [Contributing](CONTRIBUTING.md)
+
 [**→ Browse the Full Library**](https://surgepix.ai/resources/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/gpt-image-2-prompts)

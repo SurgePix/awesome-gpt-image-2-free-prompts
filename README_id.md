@@ -28,7 +28,7 @@ Prompt pilihan · Pratinjau gambar · Salin & buat dengan 1 klik · Multibahasa 
 
 > Perpustakaan **prompt GPT Image 2** gratis terbesar — mencakup fotorealisme,
 > tipografi, UI/UX, screenshot game, desain karakter, dan ilustrasi komersial.
-> 500+ prompt siap pakai, tersedia dalam berbagai bahasa.
+> 9000+ prompt siap pakai, tersedia dalam berbagai bahasa.
 
 ## Daftar Isi
 

@@ -28,7 +28,7 @@ Wyselekcjonowane prompty · Podgląd obrazów · Kopiowanie i generowanie jednym
 
 > Największa darmowa biblioteka **promptów GPT Image 2** — obejmuje fotorealizm,
 > typografię, UI/UX, screenshoty z gier, projektowanie postaci i ilustrację komercyjną.
-> 500+ gotowych promptów, dostępnych w wielu językach.
+> 9000+ gotowych promptów, dostępnych w wielu językach.
 
 ## Spis treści
 

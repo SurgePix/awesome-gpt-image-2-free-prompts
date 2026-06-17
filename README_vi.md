@@ -28,7 +28,7 @@ Prompt được tuyển chọn · Ảnh xem trước · Sao chép & tạo ảnh 
 
 > Thư viện **prompt GPT Image 2** miễn phí lớn nhất — bao gồm chân thực,
 > typography, UI/UX, ảnh chụp màn hình game, thiết kế nhân vật và minh họa thương mại.
-> 500+ prompt sẵn sàng sử dụng, hỗ trợ nhiều ngôn ngữ.
+> 9000+ prompt sẵn sàng sử dụng, hỗ trợ nhiều ngôn ngữ.
 
 ## Mục lục
 

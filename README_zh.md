@@ -24,7 +24,7 @@
 [![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
 [![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
 
-> 超大的免费 **GPT Image 2 提示词**库 — 涵盖真实摄影、文字排版、UI/UX、
+> 9000+免费 **GPT Image 2 提示词**库 — 涵盖真实摄影、文字排版、UI/UX、
 > 游戏截图、角色设计和商业插画。即用提示词，支持多种语言。
 
 ## 目录

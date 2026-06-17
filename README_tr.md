@@ -28,7 +28,7 @@ Seçilmiş promptlar · Önizleme görselleri · Tek tıkla kopyala & oluştur �
 
 > En büyük ücretsiz **GPT Image 2 prompt** kütüphanesi — fotorealizm, tipografi,
 > UI/UX, oyun ekran görüntüleri, karakter tasarımı ve ticari illüstrasyonu kapsar.
-> Birden fazla dilde 500+ kullanıma hazır prompt.
+> Birden fazla dilde 9000+ kullanıma hazır prompt.
 
 ## İçindekiler
 

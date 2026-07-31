@@ -1,0 +1,207 @@
+{
+  "tagline": "La biblioteca de prompts gratuita más completa para GPT-Image-2",
+  "intro": "{count} **prompts de GPT Image 2** gratuitos — que abarcan fotorrealismo, tipografía, maquetas UI/UX, capturas de videojuegos, diseño de personajes e ilustración comercial. Prompts listos para copiar, multilingües.",
+  "features": [
+    {
+      "icon": "🖼️",
+      "name": "Imágenes de vista previa",
+      "desc": "Cada prompt incluye una vista previa real generada por IA"
+    },
+    {
+      "icon": "📋",
+      "name": "Copia con un clic",
+      "desc": "Copia cualquier prompt al portapapeles al instante"
+    },
+    {
+      "icon": "⚡",
+      "name": "Generación directa",
+      "desc": "Ve directo a SurgePix para generar con el prompt"
+    },
+    {
+      "icon": "🌍",
+      "name": "Multilingüe",
+      "desc": "Prompts e interfaz disponibles en varios idiomas"
+    },
+    {
+      "icon": "🔍",
+      "name": "Filtros por categoría",
+      "desc": "Explora por estilo, caso de uso o tipo de contenido"
+    },
+    {
+      "icon": "🔗",
+      "name": "Trazabilidad de fuentes",
+      "desc": "Cada prompt de la comunidad enlaza a la publicación original"
+    },
+    {
+      "icon": "📅",
+      "name": "Actualizaciones diarias",
+      "desc": "Nuevos prompts cada día de los mejores creadores"
+    },
+    {
+      "icon": "🆓",
+      "name": "Totalmente gratis",
+      "desc": "Sin registro, sin muro de pago"
+    }
+  ],
+  "categoryGrid": [
+    "🖼️ OpenAI oficial",
+    "🎨 Póster / Anime",
+    "📐 Cuadrícula / Collage",
+    "📸 Fotografía",
+    "👤 Retrato",
+    "💻 UI / UX",
+    "🏛️ Arquitectura",
+    "📦 Producto",
+    "✏️ Ilustración",
+    "🎄 Festividades / Temporada",
+    "🎭 Personaje",
+    "➕ Se añaden con frecuencia"
+  ],
+  "categories": [
+    {
+      "title": "🖼️ OpenAI oficial",
+      "blurb": "Prompts de los lanzamientos oficiales de OpenAI",
+      "items": [
+        "**Estilo anime** — Convierte cualquier foto en arte anime de moda con cel shading y proporciones expresivas",
+        "**Póster blueprint** — Renderiza los sujetos como planos técnicos blancos sobre fondo azul cobalto",
+        "**Tira de película** — Transforma fotos en 3 fotogramas cinematográficos con grano analógico",
+        "**Tira cómica** — Recrea escenas al estilo de las tiras dominicales con texturas de semitono",
+        "**Cuadrícula de iconos** — Abstrae los sujetos en 16–20 logos vectoriales minimalistas",
+        "**Carta de tarot** — Genera cartas de tarot personalizadas al estilo Rider-Waite dibujado a mano",
+        "**Avatar 3D** — Renders de vinilo brillante tipo designer toy con peinado estilizado y gafas retro",
+        "**Botánica vintage** — Reinterpreta los sujetos como ilustraciones de atlas científico del siglo XIX"
+      ]
+    },
+    {
+      "title": "🎄 Día de la Madre / Festividades",
+      "blurb": "Tarjetas de felicitación de temporada y arte festivo",
+      "items": [
+        "**Tarjeta Reina de Corazones** — Naipe estilo gouache donde el rostro de la madre reemplaza a la reina",
+        "**Tarjeta de ilustración plana** — Póster de naipe minimalista monocromático rosa-rojo",
+        "**Fotografía de claveles** — Tarjeta fotorrealista con claveles en bokeh suave y espacio para mensaje",
+        "**Tarjeta de tulipanes Matisse** — Composición de tulipanes planos abstractos inspirada en los recortes de Matisse",
+        "**Dibujo de línea continua** — Retrato de madre e hijo de un solo trazo, entrelazado con un motivo de rosa"
+      ]
+    },
+    {
+      "title": "🎨 Póster / Anime",
+      "blurb": "Arte de personaje estilizado y pósteres gráficos",
+      "items": [
+        "Transformación de personaje anime a partir de una foto",
+        "Diseño de póster retro con tipografía llamativa",
+        "Pósteres de evento en ilustración plana con paletas personalizadas"
+      ]
+    },
+    {
+      "title": "📐 Cuadrícula / Collage",
+      "blurb": "Diseños multipanel y composiciones",
+      "items": [
+        "Collages de moodboard de 4 paneles",
+        "Diseños de cuadrícula narrativa secuencial",
+        "Cuadrículas de comparación antes/después"
+      ]
+    },
+    {
+      "title": "📸 Fotografía",
+      "blurb": "Estilos fotográficos cinematográficos y editoriales",
+      "items": [
+        "**Flash nocturno** — Flash directo duro con sombras profundas y altas luces brillantes",
+        "**Grano de película cinematográfico** — Fotogramas de tonos fríos y alto contraste con desenfoque de movimiento",
+        "**Diseño de interiores** — Transformación de habitación fotorrealista estilo mid-century modern"
+      ]
+    },
+    {
+      "title": "👤 Retrato",
+      "blurb": "Generaciones centradas en personas y personajes",
+      "items": [
+        "Retrato anime estilizado a partir de foto",
+        "Avatar designer toy de vinilo 3D",
+        "Retrato personalizado en carta de tarot"
+      ]
+    },
+    {
+      "title": "💻 UI / UX",
+      "blurb": "Maquetas de interfaz y visuales de diseño de app",
+      "items": [
+        "Maquetas de pantallas de app móvil",
+        "UI de panel y visualización de datos",
+        "Ilustraciones wireframe de landing page"
+      ]
+    },
+    {
+      "title": "🏛️ Arquitectura",
+      "blurb": "Edificios, espacios y arte estructural",
+      "items": [
+        "Renderizado arquitectónico de exteriores",
+        "Transformación de diseño de interiores",
+        "Diagrama técnico estilo blueprint"
+      ]
+    },
+    {
+      "title": "📦 Producto",
+      "blurb": "Visualización de producto comercial",
+      "items": [
+        "Fotografía de producto con fondos limpios",
+        "Maquetas de diseño de empaque",
+        "Cuadrículas de logo e identidad de marca"
+      ]
+    },
+    {
+      "title": "✏️ Ilustración",
+      "blurb": "Estilos de arte dibujados a mano y digitales",
+      "items": [
+        "Ilustración científica botánica vintage",
+        "Arte minimalista de línea continua",
+        "Estilos con textura de acuarela y gouache"
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "title": "No.1 · Transformación estilo anime",
+      "description": "Convierte cualquier foto subida en arte anime de moda con proporciones expresivas, cel shading y energía cómica."
+    },
+    {
+      "title": "No.2 · Póster blueprint",
+      "description": "Renderiza cualquier sujeto como un dibujo técnico blanco sobre fondo azul cobalto profundo con etiquetas esquemáticas."
+    },
+    {
+      "title": "No.3 · Fotografía con flash nocturno",
+      "description": "Transforma cualquier foto en una toma editorial nocturna espontánea, con flash duro, sombras profundas y una estética cruda de moda-vida nocturna."
+    },
+    {
+      "title": "No.4 · Tira de película cinematográfica",
+      "description": "Convierte una sola foto en 3 fotogramas cinematográficos con grano analógico, desenfoque de movimiento y un etalonaje nostálgico."
+    },
+    {
+      "title": "No.5 · Cuadrícula de iconos",
+      "description": "Abstrae cualquier sujeto en una cuadrícula de 16–20 logos vectoriales minimalistas que cubren estilos geométrico, line art, insignia y monograma."
+    },
+    {
+      "title": "No.6 · Avatar designer toy 3D",
+      "description": "Crea a partir de cualquier persona un toy de vinilo 3D de alto brillo, con peinado esculpido, gafas retro e iluminación de estudio sobre un cielo azul."
+    },
+    {
+      "title": "No.7 · Tarjeta Reina de Corazones del Día de la Madre",
+      "description": "Genera un naipe de Reina de Corazones a doble cara estilo gouache donde el rostro de la madre reemplaza a la reina — perfecto para un regalo personalizado."
+    },
+    {
+      "title": "No.8 · Dibujo de línea continua del Día de la Madre",
+      "description": "Un retrato minimalista de madre e hijo de un solo trazo, entrelazado con un motivo de rosa y un elegante mensaje manuscrito sobre fondo crema suave."
+    }
+  ],
+  "toolNames": [
+    "🤖 Generador de imágenes IA",
+    "📊 Biblioteca de prompts PPT",
+    "🖼️ PDF a JPG",
+    "✂️ Redimensionador de imágenes",
+    "📺 Creador de banner de YouTube",
+    "💇 Peinado con IA",
+    "👨‍🍼 Tarjeta del Día del Padre",
+    "👩‍🍼 Tarjeta del Día de la Madre",
+    "📊 Creador de gráfico de barras",
+    "🥧 Creador de gráfico circular",
+    "🔵 Creador de diagrama de Venn"
+  ],
+  "toolLinkLabel": "surgepix.ai"
+}

@@ -32,7 +32,7 @@ Seçilmiş promptlar · Önizleme görselleri · Tek tıkla kopyala & oluştur �
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
 
-> En büyük ücretsiz **GPT Image 2 prompt** kütüphanesi — fotorealizm, tipografi, UI/UX, oyun ekran görüntüleri, karakter tasarımı ve ticari illüstrasyonu kapsar. Birden fazla dilde 9000+ kullanıma hazır prompt.
+> En büyük ücretsiz **GPT Image 2 prompt** kütüphanesi — fotorealizm, tipografi, UI/UX, oyun ekran görüntüleri, karakter tasarımı ve ticari illüstrasyonu kapsar. Birden fazla dilde 9,300+ kullanıma hazır prompt.
 
 [**→ Tam Kütüphaneye Göz At**](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
 

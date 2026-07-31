@@ -32,7 +32,7 @@ Prompt pilihan · Pratinjau gambar · Salin & buat dengan 1 klik · Multibahasa 
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/id/gpt-image-2-prompts)
 
-> Perpustakaan **prompt GPT Image 2** gratis terbesar — mencakup fotorealisme, tipografi, UI/UX, screenshot game, desain karakter, dan ilustrasi komersial. 9000+ prompt siap pakai, tersedia dalam berbagai bahasa.
+> Perpustakaan **prompt GPT Image 2** gratis terbesar — mencakup fotorealisme, tipografi, UI/UX, screenshot game, desain karakter, dan ilustrasi komersial. 9,300+ prompt siap pakai, tersedia dalam berbagai bahasa.
 
 [**→ Jelajahi Perpustakaan Lengkap**](https://surgepix.ai/resources/id/gpt-image-2-prompts)
 

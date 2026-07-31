@@ -121,7 +121,7 @@ ${langRow(code)}
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](${gallery})
 
-> ${s.intro}
+> ${s.intro.replace('{count}', promptCount)}
 
 [**→ ${t.ctaBrowse}**](${gallery})
 

@@ -1,6 +1,6 @@
 {
   "tagline": "The most comprehensive free prompt library for GPT-Image-2",
-  "intro": "The largest free library of **GPT Image 2 prompts** — covering photorealism, typography, UI/UX mockups, game screenshots, character design, and commercial illustration. 9000+ copy-ready prompts for OpenAI's gpt-image-2 model. Free & open source, multi languages.",
+  "intro": "The largest free library of **GPT Image 2 prompts** — covering photorealism, typography, UI/UX mockups, game screenshots, character design, and commercial illustration. {count} copy-ready prompts for OpenAI's gpt-image-2 model. Free & open source, multi languages.",
   "headings": [
     "🎨 Awesome GPT Image 2 Prompts — Free & Open Source",
     "Contents",

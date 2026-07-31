@@ -32,7 +32,7 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
 
-> The largest free library of **GPT Image 2 prompts** — covering photorealism, typography, UI/UX mockups, game screenshots, character design, and commercial illustration. 9000+ copy-ready prompts for OpenAI's gpt-image-2 model. Free & open source, multi languages.
+> The largest free library of **GPT Image 2 prompts** — covering photorealism, typography, UI/UX mockups, game screenshots, character design, and commercial illustration. 9,300+ copy-ready prompts for OpenAI's gpt-image-2 model. Free & open source, multi languages.
 
 [**→ Browse the Full Library**](https://surgepix.ai/resources/gpt-image-2-prompts)
 

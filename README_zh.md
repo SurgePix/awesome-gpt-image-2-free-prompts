@@ -11,7 +11,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
 
 **最全面的 GPT-Image-2 免费提示词库**
-[![Prompts](https://img.shields.io/badge/提示词-367%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
+精选提示词 · 预览图 · 一键复制与生成 · 多语言 · 定期更新
 
 [![EN](https://img.shields.io/badge/EN-English-lightgrey?style=flat-square)](README.md)
 [![ZH](https://img.shields.io/badge/ZH-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-brightgreen?style=flat-square)](#)
@@ -32,7 +32,7 @@
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
 
-> 9000+免费 **GPT Image 2 提示词**库 — 涵盖真实摄影、文字排版、UI/UX、 游戏截图、角色设计和商业插画。即用提示词，支持多种语言。
+> 9,300+免费 **GPT Image 2 提示词**库 — 涵盖真实摄影、文字排版、UI/UX、 游戏截图、角色设计和商业插画。即用提示词，支持多种语言。
 
 [**→ 浏览完整提示词库**](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
 

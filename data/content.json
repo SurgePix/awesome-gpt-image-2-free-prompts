@@ -8,6 +8,32 @@
     "discord": "https://discord.gg/wC5XeHN6fR",
     "pptLibrary": "https://surgepix.ai/resources/awesome-ppt-prompts"
   },
+  "imagesByLocale": {
+    "en": {
+      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/banner.png",
+      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png"
+    },
+    "zh": {
+      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-banner.png",
+      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-gpt-image-2-prompt-character.png"
+    },
+    "tr": {
+      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-banner.png",
+      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-gpt-image-2-general-prompt.png"
+    },
+    "vi": {
+      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-banner.png",
+      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-gpt-image-2-all-prompt.png"
+    },
+    "pl": {
+      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-banner.png",
+      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-gpt-image-2-prompt.png"
+    },
+    "id": {
+      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-banner.png",
+      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-gpt-image-2-all-prompt.png"
+    }
+  },
   "promptCount": "9,300+",
   "featured": [
     {
@@ -200,31 +226,5 @@
       "name": "🍪 Venn Diagram Maker",
       "url": "https://surgepix.ai/tools/operation?type=11"
     }
-  ],
-  "imagesByLocale": {
-    "en": {
-      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/banner.png",
-      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png"
-    },
-    "zh": {
-      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-banner.png",
-      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-gpt-image-2-prompt-character.png"
-    },
-    "tr": {
-      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-banner.png",
-      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-gpt-image-2-general-prompt.png"
-    },
-    "vi": {
-      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-banner.png",
-      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-gpt-image-2-all-prompt.png"
-    },
-    "pl": {
-      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-banner.png",
-      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-gpt-image-2-prompt.png"
-    },
-    "id": {
-      "banner": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-banner.png",
-      "poster": "https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-gpt-image-2-all-prompt.png"
-    }
-  }
+  ]
 }

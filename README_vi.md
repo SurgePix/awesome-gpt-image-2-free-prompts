@@ -32,7 +32,7 @@ Prompt được tuyển chọn · Ảnh xem trước · Sao chép & tạo ảnh 
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
 
-> Thư viện **prompt GPT Image 2** miễn phí lớn nhất — bao gồm chân thực, typography, UI/UX, ảnh chụp màn hình game, thiết kế nhân vật và minh họa thương mại. 9000+ prompt sẵn sàng sử dụng, hỗ trợ nhiều ngôn ngữ.
+> Thư viện **prompt GPT Image 2** miễn phí lớn nhất — bao gồm chân thực, typography, UI/UX, ảnh chụp màn hình game, thiết kế nhân vật và minh họa thương mại. 9,300+ prompt sẵn sàng sử dụng, hỗ trợ nhiều ngôn ngữ.
 
 [**→ Xem Toàn Bộ Thư Viện**](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
 

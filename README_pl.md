@@ -32,7 +32,7 @@ Wyselekcjonowane prompty · Podgląd obrazów · Kopiowanie i generowanie jednym
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
 
-> Największa darmowa biblioteka **promptów GPT Image 2** — obejmuje fotorealizm, typografię, UI/UX, screenshoty z gier, projektowanie postaci i ilustrację komercyjną. 9000+ gotowych promptów, dostępnych w wielu językach.
+> Największa darmowa biblioteka **promptów GPT Image 2** — obejmuje fotorealizm, typografię, UI/UX, screenshoty z gier, projektowanie postaci i ilustrację komercyjną. 9,300+ gotowych promptów, dostępnych w wielu językach.
 
 [**→ Przeglądaj Pełną Bibliotekę**](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
 

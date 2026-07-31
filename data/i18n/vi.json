@@ -1,0 +1,219 @@
+{
+  "tagline": "Thư viện prompt GPT-Image-2 miễn phí toàn diện nhất",
+  "intro": "Thư viện **prompt GPT Image 2** miễn phí lớn nhất — bao gồm chân thực, typography, UI/UX, ảnh chụp màn hình game, thiết kế nhân vật và minh họa thương mại. 9000+ prompt sẵn sàng sử dụng, hỗ trợ nhiều ngôn ngữ.",
+  "headings": [
+    "Mục lục",
+    "✨ Tính Năng",
+    "🗂️ Danh Mục",
+    "🔥 Prompt Nổi Bật",
+    "🌍 Hỗ Trợ Đa Ngôn Ngữ",
+    "🚀 Cách Sử Dụng",
+    "🔗 Truy Nguồn Gốc",
+    "📌 Về GPT-Image-2",
+    "🛠️ Công Cụ Miễn Phí từ SurgePix",
+    "📬 Theo Dõi Chúng Tôi"
+  ],
+  "features": [
+    {
+      "icon": "🖼️",
+      "name": "Ảnh xem trước",
+      "desc": "Mỗi prompt đi kèm ảnh AI thực tế được tạo ra"
+    },
+    {
+      "icon": "📋",
+      "name": "Sao chép 1 cú nhấp",
+      "desc": "Sao chép prompt vào clipboard ngay lập tức"
+    },
+    {
+      "icon": "⚡",
+      "name": "Tạo ảnh trực tiếp",
+      "desc": "Chuyển sang SurgePix để tạo ảnh bằng prompt"
+    },
+    {
+      "icon": "🌍",
+      "name": "Đa ngôn ngữ",
+      "desc": "Prompt và giao diện hỗ trợ nhiều ngôn ngữ"
+    },
+    {
+      "icon": "🔍",
+      "name": "Lọc theo danh mục",
+      "desc": "Duyệt theo phong cách, mục đích hoặc loại nội dung"
+    },
+    {
+      "icon": "🔗",
+      "name": "Truy nguồn gốc",
+      "desc": "Mỗi prompt cộng đồng đều liên kết đến bài đăng gốc trên mạng xã hội"
+    },
+    {
+      "icon": "📅",
+      "name": "Cập nhật thường xuyên",
+      "desc": "Thêm prompt mới mỗi ngày từ các nhà sáng tạo hàng đầu"
+    },
+    {
+      "icon": "🆓",
+      "name": "Hoàn toàn miễn phí",
+      "desc": "Không cần đăng nhập, không có paywall"
+    }
+  ],
+  "categoryGrid": [
+    "🖼️ OpenAI Chính thức",
+    "🎨 Poster / Anime",
+    "📐 Lưới / Ghép ảnh",
+    "📸 Nhiếp ảnh",
+    "👤 Chân dung",
+    "💻 UI / UX",
+    "🏛️ Kiến trúc",
+    "📦 Sản phẩm",
+    "✏️ Minh họa",
+    "🎄 Lễ hội / Kỳ nghỉ",
+    "🎭 Nhân vật",
+    "➕ Thêm thường xuyên"
+  ],
+  "categories": [
+    {
+      "title": "🖼️ OpenAI Chính Thức",
+      "blurb": "Prompt từ các bản phát hành chính thức của OpenAI",
+      "items": [
+        "**Phong cách Anime** — Chuyển đổi bất kỳ ảnh nào thành nghệ thuật anime xu hướng với cel shading và tỷ lệ phóng đại",
+        "**Poster Bản Vẽ Kỹ Thuật** — Render đối tượng thành sơ đồ đường kẻ trắng kỹ thuật trên nền xanh cobalt đậm",
+        "**Thước Phim** — Biến ảnh thành 3 khung phim điện ảnh tuần tự với hạt phim analog",
+        "**Truyện Tranh** — Tái hiện cảnh quay thành phong cách truyện tranh Mỹ retro với kết cấu halftone",
+        "**Lưới Thiết Kế Icon** — Trừu tượng hóa đối tượng thành 16–20 biến thể logo vector tối giản",
+        "**Lá Bài Tarot** — Tạo lá bài tarot cá nhân hóa theo phong cách vẽ tay Rider-Waite cổ điển",
+        "**Avatar 3D** — Tạo render đồ chơi vinyl bóng loáng với tóc điêu khắc và kính mát retro",
+        "**Thực Vật Học Vintage** — Diễn giải lại đối tượng theo phong cách minh họa atlas khoa học thế kỷ 19"
+      ]
+    },
+    {
+      "title": "🎄 Ngày của Mẹ / Lễ Hội",
+      "blurb": "Thiệp chúc mừng theo mùa và nghệ thuật lễ hội",
+      "items": [
+        "**Thiệp Nữ Hoàng Cơ Đỏ** — Lá bài phong cách gouache với khuôn mặt mẹ thay thế nữ hoàng",
+        "**Thiệp Minh Họa Phẳng** — Poster lá bài đơn sắc hồng-đỏ tối giản",
+        "**Ảnh Hoa Cẩm Chướng** — Thiệp thực tế với hoa cẩm chướng bokeh mềm và không gian viết tay",
+        "**Thiệp Hoa Tulip Matisse** — Bố cục hoa tulip phẳng trừu tượng lấy cảm hứng từ kỹ thuật cắt giấy của Matisse",
+        "**Hình Vẽ Đường Liên Tục** — Chân dung mẹ và con một nét vẽ, kết hợp họa tiết hoa hồng"
+      ]
+    },
+    {
+      "title": "🎨 Poster / Anime",
+      "blurb": "Nghệ thuật nhân vật cách điệu và poster đồ họa",
+      "items": [
+        "Chuyển đổi nhân vật anime từ ảnh tham chiếu",
+        "Thiết kế poster retro với typography đậm",
+        "Poster sự kiện minh họa phẳng với bảng màu tùy chỉnh"
+      ]
+    },
+    {
+      "title": "📐 Lưới / Ghép Ảnh",
+      "blurb": "Bố cục đa bảng và thiết kế tổng hợp",
+      "items": [
+        "Bảng ghép mood board 4 ô",
+        "Bố cục lưới kể chuyện tuần tự",
+        "Lưới so sánh trước/sau"
+      ]
+    },
+    {
+      "title": "📸 Nhiếp Ảnh",
+      "blurb": "Phong cách ảnh điện ảnh và editorial",
+      "items": [
+        "**Flash Ban Đêm** — Flash gắn máy ảnh cứng với bóng tối sâu và điểm sáng bóng",
+        "**Phim Hạt Điện Ảnh** — Khung phim tương phản cao tone lạnh với hiệu ứng mờ chuyển động",
+        "**Thiết Kế Nội Thất** — Chuyển đổi phòng phong cách mid-century modern thực tế"
+      ]
+    },
+    {
+      "title": "👤 Chân Dung",
+      "blurb": "Tạo ảnh tập trung vào nhân vật và con người",
+      "items": [
+        "Chân dung anime cách điệu từ ảnh",
+        "Avatar đồ chơi vinyl 3D",
+        "Chân dung lá bài tarot cá nhân hóa"
+      ]
+    },
+    {
+      "title": "💻 UI / UX",
+      "blurb": "Mockup giao diện và hình ảnh thiết kế ứng dụng",
+      "items": [
+        "Mockup màn hình ứng dụng di động",
+        "UI bảng điều khiển và trực quan hóa dữ liệu",
+        "Minh họa wireframe trang đích"
+      ]
+    },
+    {
+      "title": "🏛️ Kiến Trúc",
+      "blurb": "Tòa nhà, không gian và nghệ thuật kết cấu",
+      "items": [
+        "Render kiến trúc ngoại thất",
+        "Chuyển đổi thiết kế nội thất",
+        "Sơ đồ kỹ thuật phong cách blueprint"
+      ]
+    },
+    {
+      "title": "📦 Sản Phẩm",
+      "blurb": "Trực quan hóa sản phẩm thương mại",
+      "items": [
+        "Chụp ảnh sản phẩm với nền sạch",
+        "Mockup thiết kế bao bì",
+        "Lưới logo và nhận diện thương hiệu"
+      ]
+    },
+    {
+      "title": "✏️ Minh Họa",
+      "blurb": "Phong cách nghệ thuật vẽ tay và kỹ thuật số",
+      "items": [
+        "Minh họa khoa học thực vật học vintage",
+        "Nghệ thuật tối giản đường liên tục",
+        "Phong cách kết cấu màu nước và gouache"
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "title": "No.1 · Chuyển Đổi Phong Cách Anime",
+      "description": "Chuyển đổi bất kỳ ảnh tải lên thành phong cách nghệ thuật anime xu hướng với tỷ lệ phóng đại, cel shading và năng lượng hài hước."
+    },
+    {
+      "title": "No.2 · Poster Bản Vẽ Kỹ Thuật",
+      "description": "Render bất kỳ đối tượng nào thành đường kẻ kỹ thuật trắng sạch trên nền xanh cobalt đậm với nhãn sơ đồ."
+    },
+    {
+      "title": "No.3 · Chụp Ảnh Flash Ban Đêm",
+      "description": "Biến ảnh thành ảnh chụp editorial ban đêm candid với flash cứng, bóng tối sâu và thẩm mỹ thời trang-đêm thô ráp."
+    },
+    {
+      "title": "No.4 · Thước Phim Điện Ảnh",
+      "description": "Biến một ảnh thành 3 khung phim điện ảnh với hạt phim analog, mờ chuyển động và tone màu hoài cổ."
+    },
+    {
+      "title": "No.5 · Lưới Thiết Kế Icon",
+      "description": "Trừu tượng hóa bất kỳ đối tượng nào thành 16–20 biến thể logo vector tối giản bao gồm hình học, line art, huy hiệu và chữ lồng."
+    },
+    {
+      "title": "No.6 · Avatar Đồ Chơi 3D Designer",
+      "description": "Tạo render đồ chơi vinyl 3D bóng loáng cao cấp cho bất kỳ ai với tóc điêu khắc, kính mát retro và ánh sáng studio trên nền trời xanh."
+    },
+    {
+      "title": "No.7 · Thiệp Ngày của Mẹ - Nữ Hoàng Cơ Đỏ",
+      "description": "Tạo lá bài Nữ Hoàng Cơ Đỏ hai mặt phong cách gouache với khuôn mặt mẹ thay thế nữ hoàng — hoàn hảo cho món quà cá nhân hóa."
+    },
+    {
+      "title": "No.8 · Hình Vẽ Đường Liên Tục Ngày của Mẹ",
+      "description": "Chân dung mẹ và con một nét vẽ tối giản, kết hợp họa tiết hoa hồng và thông điệp viết tay thanh lịch trên nền kem mềm."
+    }
+  ],
+  "toolNames": [
+    "🤖 Tạo ảnh AI",
+    "📊 Thư viện Prompt PPT",
+    "🖼️ PDF sang JPG",
+    "✂️ Thay đổi kích thước ảnh",
+    "📺 Tạo banner YouTube",
+    "💇 Kiểu tóc AI",
+    "👨‍🍼 Ngày của Cha",
+    "👩‍🍼 Ngày của Mẹ",
+    "📊 Tạo biểu đồ cột",
+    "🥧 Tạo biểu đồ tròn",
+    "🔵 Sơ đồ Venn"
+  ],
+  "toolLinkLabel": "surgepix.ai"
+}

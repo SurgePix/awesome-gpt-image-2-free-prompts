@@ -4,47 +4,39 @@
 
 </div>
 
-# 🎨 Awesome GPT-Image-2 Ücretsiz Promptlar
+## 🎨 Awesome GPT Image 2 Prompts — Free & Open Source
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
 
 **GPT-Image-2 için en kapsamlı ücretsiz prompt kütüphanesi**
-
 Seçilmiş promptlar · Önizleme görselleri · Tek tıkla kopyala & oluştur · Çok dilli · Düzenli güncelleme
 
-[![Prompts](https://img.shields.io/badge/Promptlar-367%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
-[![Weekly Updated](https://img.shields.io/badge/Güncelleme-Haftalık-4ecdc4?style=flat-square)](#)
-[![Languages](https://img.shields.io/badge/Diller-6%2B-45b7d1?style=flat-square)](#-çok-dilli-destek)
-[![License](https://img.shields.io/badge/Lisans-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
+[![EN](https://img.shields.io/badge/EN-English-lightgrey?style=flat-square)](README.md)
+[![ZH](https://img.shields.io/badge/ZH-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey?style=flat-square)](README_zh.md)
+[![ZH-HANT](https://img.shields.io/badge/ZH-HANT-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey?style=flat-square)](README_zh-Hant.md)
+[![JA](https://img.shields.io/badge/JA-%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey?style=flat-square)](README_ja.md)
+[![KO](https://img.shields.io/badge/KO-%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey?style=flat-square)](README_ko.md)
+[![TH](https://img.shields.io/badge/TH-%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey?style=flat-square)](README_th.md)
+[![ID](https://img.shields.io/badge/ID-Bahasa%20Indonesia-lightgrey?style=flat-square)](README_id.md)
+[![VI](https://img.shields.io/badge/VI-Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey?style=flat-square)](README_vi.md)
+[![DE](https://img.shields.io/badge/DE-Deutsch-lightgrey?style=flat-square)](README_de.md)
+[![FR](https://img.shields.io/badge/FR-Fran%C3%A7ais-lightgrey?style=flat-square)](README_fr.md)
+[![ES](https://img.shields.io/badge/ES-Espa%C3%B1ol-lightgrey?style=flat-square)](README_es.md)
+[![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-brightgreen?style=flat-square)](#)
+[![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![EN](https://img.shields.io/badge/EN-English-blue?style=flat-square)](README.md)
-[![ZH](https://img.shields.io/badge/ZH-%E4%B8%AD%E6%96%87-red?style=flat-square)](README_zh.md)
-[![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-orange?style=flat-square)](README_tr.md)
-[![VI](https://img.shields.io/badge/VI-Ti%E1%BA%BFng%20Vi%E1%BB%87t-green?style=flat-square)](README_vi.md)
-[![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
-[![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
+[![Promptlar](https://img.shields.io/badge/Promptlar-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
+[![Diller](https://img.shields.io/badge/Diller-13-45b7d1?style=flat-square)](#--ok-dilli-destek)
+[![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
 
-> En büyük ücretsiz **GPT Image 2 prompt** kütüphanesi — fotorealizm, tipografi,
-> UI/UX, oyun ekran görüntüleri, karakter tasarımı ve ticari illüstrasyonu kapsar.
-> Birden fazla dilde 9000+ kullanıma hazır prompt.
+> En büyük ücretsiz **GPT Image 2 prompt** kütüphanesi — fotorealizm, tipografi, UI/UX, oyun ekran görüntüleri, karakter tasarımı ve ticari illüstrasyonu kapsar. Birden fazla dilde 9000+ kullanıma hazır prompt.
 
-## İçindekiler
-
-- [Özellikler](#features)
-- [Kategoriler](#categories)
-- [Öne Çıkan Promptlar](#featured-prompts)
-- [Çok Dilli Destek](#multilingual-support)
-- [Nasıl Kullanılır](#how-to-use)
-- [Kaynak Takibi](#source-tracing)
-- [GPT-Image-2 Hakkında](#about-gpt-image-2)
-- [Katkıda Bulunma](CONTRIBUTING.md)
-  
 [**→ Tam Kütüphaneye Göz At**](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-gpt-image-2-general-prompt.png)](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
-
 
 ---
 
@@ -65,11 +57,26 @@ Seçilmiş promptlar · Önizleme görselleri · Tek tıkla kopyala & oluştur �
 
 ## 🗂️ Kategoriler
 
-| 🖼️ OpenAI Resmi | 🎨 Poster / Anime | 📐 Izgara / Kolaj | 📸 Fotoğrafçılık |
-|---|---|---|---|
-| 👤 Portre | 💻 UI / UX | 🏛️ Mimari | 📦 Ürün |
-| ✏️ İllüstrasyon | 🎄 Festival / Tatil | 🎭 Karakter | ➕ Düzenli olarak ekleniyor |
-
+<table>
+<tr>
+<td>🖼️ OpenAI Resmi</td>
+<td>🎨 Poster / Anime</td>
+<td>📐 Izgara / Kolaj</td>
+<td>📸 Fotoğrafçılık</td>
+</tr>
+<tr>
+<td>👤 Portre</td>
+<td>💻 UI / UX</td>
+<td>🏛️ Mimari</td>
+<td>📦 Ürün</td>
+</tr>
+<tr>
+<td>✏️ İllüstrasyon</td>
+<td>🎄 Festival / Tatil</td>
+<td>🎭 Karakter</td>
+<td>➕ Düzenli olarak ekleniyor</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🖼️ OpenAI Resmi</b> — OpenAI'nin resmi yayınlarından promptlar</summary>
@@ -172,12 +179,12 @@ Seçilmiş promptlar · Önizleme görselleri · Tek tıkla kopyala & oluştur �
 
 ## 🔥 Öne Çıkan Promptlar
 
-⭐ Olağanüstü kalite ve yaratıcılık için özenle seçildi — [Tümüne göz at 367+](https://surgepix.ai/resources/gpt-image-2-prompts)
+⭐ Olağanüstü kalite ve yaratıcılık için özenle seçildi — [Tümüne göz at 9,300+](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
 
 ---
 
 <details>
-<summary><b>No.1 · Anime Stil Dönüşümü</b></summary>
+<summary><b>No.1 · No.1 · Anime Stil Dönüşümü</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -198,7 +205,7 @@ Create a trending anime art style image from the uploaded subject. Use confident
 ---
 
 <details>
-<summary><b>No.2 · Blueprint Posteri</b></summary>
+<summary><b>No.2 · No.2 · Blueprint Posteri</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -219,7 +226,7 @@ Create a single-subject blueprint poster using only the main subject from the up
 ---
 
 <details>
-<summary><b>No.3 · Gece Flaş Fotoğrafçılığı</b></summary>
+<summary><b>No.3 · No.3 · Gece Flaş Fotoğrafçılığı</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -240,7 +247,7 @@ Transform the photo into nighttime chic flash photography. Use harsh direct on-c
 ---
 
 <details>
-<summary><b>No.4 · Sinematik Film Şeridi</b></summary>
+<summary><b>No.4 · No.4 · Sinematik Film Şeridi</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -261,7 +268,7 @@ Transform the uploaded image into cinematic 3-frame sequential film stills (hori
 ---
 
 <details>
-<summary><b>No.5 · İkon Tasarım Izgarası</b></summary>
+<summary><b>No.5 · No.5 · İkon Tasarım Izgarası</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -282,7 +289,7 @@ Transform this image into a grid of minimalist logos using the main subject as t
 ---
 
 <details>
-<summary><b>No.6 · 3D Tasarımcı Oyuncak Avatarı</b></summary>
+<summary><b>No.6 · No.6 · 3D Tasarımcı Oyuncak Avatarı</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -303,7 +310,7 @@ Create a premium glossy 3D "designer toy" render of the subject(s) using the upl
 ---
 
 <details>
-<summary><b>No.7 · Anneler Günü Kız Kupa Kart</b></summary>
+<summary><b>No.7 · No.7 · Anneler Günü Kız Kupa Kart</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![Mother's Day](https://img.shields.io/badge/Mother's%20Day-ff69b4?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -325,7 +332,7 @@ The character's face and hairstyle are completely based on a real mother's gentl
 ---
 
 <details>
-<summary><b>No.8 · Anneler Günü Sürekli Çizgi Resim</b></summary>
+<summary><b>No.8 · No.8 · Anneler Günü Sürekli Çizgi Resim</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![Mother's Day](https://img.shields.io/badge/Mother's%20Day-ff69b4?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -342,19 +349,26 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 [**→ Bu promptla oluştur**](https://surgepix.ai/)
 
 </details>
+
 ---
 
 ## 🌍 Çok Dilli Destek
 
 Kütüphane birden fazla dilde kullanılabilir ve yeni diller düzenli olarak eklenmektedir:
 
-- 🇺🇸 English (İngilizce)
-- 🇨🇳 中文 (Çince)
-- 🇵🇱 Polski (Lehçe)
-- 🇻🇳 Tiếng Việt (Vietnamca)
-- 🇮🇩 Bahasa Indonesia (Endonezce)
-- 🇹🇷 Türkçe
-- ➕ Daha fazla dil yakında
+- 🇺🇸 [English](README.md)
+- 🇨🇳 [简体中文](README_zh.md)
+- 🇭🇰 [繁體中文](README_zh-Hant.md)
+- 🇯🇵 [日本語](README_ja.md)
+- 🇰🇷 [한국어](README_ko.md)
+- 🇹🇭 [ไทย](README_th.md)
+- 🇮🇩 [Bahasa Indonesia](README_id.md)
+- 🇻🇳 [Tiếng Việt](README_vi.md)
+- 🇩🇪 [Deutsch](README_de.md)
+- 🇫🇷 [Français](README_fr.md)
+- 🇪🇸 [Español](README_es.md)
+- 🇹🇷 [Türkçe](#)
+- 🇵🇱 [Polski](README_pl.md)
 
 ---
 
@@ -396,24 +410,24 @@ Daha fazlası için: [SurgePix GPT-Image-2 Rehberi](https://surgepix.ai/blog/res
 | Araç | Bağlantı |
 |---|---|
 | 🤖 AI Görsel Oluşturucu | [surgepix.ai](https://surgepix.ai) |
-| 📊 PPT Prompt Kütüphanesi | [Awesome PPT Prompts](https://surgepix.ai/resources/tr/awesome-ppt-prompts) |
-| 🖼️ PDF'den JPG'ye | [Araç](https://surgepix.ai/tools/operation?type=1) |
-| ✂️ Görsel Yeniden Boyutlandırma | [Araç](https://surgepix.ai/tools/operation?type=4) |
-| 📺 YouTube Banner Yapıcı | [Araç](https://surgepix.ai/tools/operation?type=5) |
-| 💇 AI Saç Modeli | [Araç](https://surgepix.ai/tools/operation?type=6) |
-| 👨‍🍼 Babalar Günü | [Araç](https://surgepix.ai/tools/operation?type=7) |
-| 👩‍🍼 Anneler Günü | [Araç](https://surgepix.ai/tools/operation?type=8) |
-| 📊 Çubuk Grafik Yapıcı | [Araç](https://surgepix.ai/tools/operation?type=9) |
-| 🥧 Pasta Grafik Yapıcı | [Araç](https://surgepix.ai/tools/operation?type=10) |
-| 🔵 Venn Diyagramı | [Araç](https://surgepix.ai/tools/operation?type=11) |
+| 📊 PPT Prompt Kütüphanesi | [surgepix.ai](https://surgepix.ai/resources/tr/awesome-ppt-prompts) |
+| 🖼️ PDF'den JPG'ye | [surgepix.ai](https://surgepix.ai/tools/operation?type=1) |
+| ✂️ Görsel Yeniden Boyutlandırma | [surgepix.ai](https://surgepix.ai/tools/operation?type=4) |
+| 📺 YouTube Banner Yapıcı | [surgepix.ai](https://surgepix.ai/tools/operation?type=5) |
+| 💇 AI Saç Modeli | [surgepix.ai](https://surgepix.ai/tools/operation?type=6) |
+| 👨‍🍼 Babalar Günü | [surgepix.ai](https://surgepix.ai/tools/operation?type=7) |
+| 👩‍🍼 Anneler Günü | [surgepix.ai](https://surgepix.ai/tools/operation?type=8) |
+| 📊 Çubuk Grafik Yapıcı | [surgepix.ai](https://surgepix.ai/tools/operation?type=9) |
+| 🥧 Pasta Grafik Yapıcı | [surgepix.ai](https://surgepix.ai/tools/operation?type=10) |
+| 🔵 Venn Diyagramı | [surgepix.ai](https://surgepix.ai/tools/operation?type=11) |
 
 ---
 
 ## 📬 Güncel Kal
 
-- [X / Twitter](https://x.com/surgepix_AI) hesabımızı takip et
-- [Discord](https://discord.gg/wC5XeHN6fR) sunucumuza katıl
-- [surgepix.ai](https://surgepix.ai) adresini ziyaret et
+- Follow us on [X / Twitter](https://x.com/surgepix_AI)
+- Join our [Discord](https://discord.gg/wC5XeHN6fR)
+- Visit [surgepix.ai](https://surgepix.ai/)
 
 ---
 

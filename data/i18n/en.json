@@ -1,0 +1,220 @@
+{
+  "tagline": "The most comprehensive free prompt library for GPT-Image-2",
+  "intro": "The largest free library of **GPT Image 2 prompts** — covering photorealism, typography, UI/UX mockups, game screenshots, character design, and commercial illustration. 9000+ copy-ready prompts for OpenAI's gpt-image-2 model. Free & open source, multi languages.",
+  "headings": [
+    "🎨 Awesome GPT Image 2 Prompts — Free & Open Source",
+    "Contents",
+    "✨ Features",
+    "🗂️ Categories",
+    "🔥 Featured Prompts",
+    "🌍 Multilingual Support",
+    "🚀 How to Use",
+    "🔗 Source Tracing",
+    "📌 About GPT-Image-2",
+    "🛠️ Free Tools by SurgePix",
+    "📬 Stay Updated"
+  ],
+  "features": [
+    {
+      "icon": "🖼️",
+      "name": "Preview Images",
+      "desc": "Every prompt comes with a real AI-generated preview"
+    },
+    {
+      "icon": "📋",
+      "name": "1-Click Copy",
+      "desc": "Copy any prompt to clipboard instantly"
+    },
+    {
+      "icon": "⚡",
+      "name": "Direct Generate",
+      "desc": "Jump straight to SurgePix to generate with the prompt"
+    },
+    {
+      "icon": "🌍",
+      "name": "Multilingual",
+      "desc": "Prompts and UI available in multiple languages"
+    },
+    {
+      "icon": "🔍",
+      "name": "Category Filters",
+      "desc": "Browse by style, use case, or content type"
+    },
+    {
+      "icon": "🔗",
+      "name": "Source Tracing",
+      "desc": "Every community prompt links back to the original social media post"
+    },
+    {
+      "icon": "📅",
+      "name": "Daily Updates",
+      "desc": "New prompts added every day from top creators"
+    },
+    {
+      "icon": "🆓",
+      "name": "Completely Free",
+      "desc": "No login, no paywall"
+    }
+  ],
+  "categoryGrid": [
+    "🖼️ OpenAI Official",
+    "🎨 Poster / Anime",
+    "📐 Grid / Collage",
+    "📸 Photography",
+    "👤 Portrait",
+    "💻 UI / UX",
+    "🏛️ Architecture",
+    "📦 Product",
+    "✏️ Illustration",
+    "🎄 Festival / Holiday",
+    "🎭 Character",
+    "➕ More added regularly"
+  ],
+  "categories": [
+    {
+      "title": "🖼️ OpenAI Official",
+      "blurb": "Prompts from OpenAI's official releases",
+      "items": [
+        "**Anime Style** — Convert any photo into trending anime art with cel shading and expressive proportions",
+        "**Blueprint Poster** — Render subjects as clean white technical schematics on cobalt-blue blueprint background",
+        "**Film Strip** — Transform photos into cinematic 3-frame sequential film stills with analog grain",
+        "**Comic Strip** — Recreate scenes as bold Sunday-funnies style comics with halftone textures",
+        "**Icon Design Grid** — Abstract subjects into 16–20 minimalist vector-style logo variations",
+        "**Tarot Card** — Generate personalized tarot cards in classic Rider-Waite hand-drawn style",
+        "**3D Avatar** — Create glossy designer-toy vinyl renders with stylized hair and retro sunglasses",
+        "**Vintage Botanical** — Reinterpret subjects as 19th-century scientific atlas illustrations"
+      ]
+    },
+    {
+      "title": "🎄 Mother's Day / Festival",
+      "blurb": "Seasonal greeting cards and holiday art",
+      "items": [
+        "**Queen of Hearts Card** — Gouache-style playing card with mother's face replacing the queen",
+        "**Flat Illustration Card** — Minimalist monochromatic pink-red playing card poster",
+        "**Carnation Photography** — Photorealistic card with soft bokeh carnations and message space",
+        "**Matisse Tulip Card** — Abstract flat tulip arrangement inspired by Matisse's cut-out technique",
+        "**Continuous Line Drawing** — Single-stroke mother-and-child portrait woven with a rose motif"
+      ]
+    },
+    {
+      "title": "🎨 Poster / Anime",
+      "blurb": "Stylized character art and graphic posters",
+      "items": [
+        "Anime character transformation from photo reference",
+        "Retro poster design with bold typography",
+        "Flat illustration event posters with custom color palettes"
+      ]
+    },
+    {
+      "title": "📐 Grid / Collage",
+      "blurb": "Multi-panel layouts and composite designs",
+      "items": [
+        "4-panel mood board collages",
+        "Sequential story grid layouts",
+        "Before/after comparison grids"
+      ]
+    },
+    {
+      "title": "📸 Photography",
+      "blurb": "Cinematic and editorial photo styles",
+      "items": [
+        "**Nighttime Flash** — Harsh on-camera flash with deep shadows and glossy highlights",
+        "**Film Grain Cinematic** — Cooler-toned high-contrast film stills with motion blur",
+        "**Interior Design** — Mid-century modern photorealistic room transformation"
+      ]
+    },
+    {
+      "title": "👤 Portrait",
+      "blurb": "Character and people-focused generations",
+      "items": [
+        "Stylized anime portrait from photo",
+        "3D vinyl designer-toy avatar",
+        "Tarot card personalized portrait"
+      ]
+    },
+    {
+      "title": "💻 UI / UX",
+      "blurb": "Interface mockups and app design visuals",
+      "items": [
+        "Mobile app screen mockups",
+        "Dashboard and data visualization UI",
+        "Landing page wireframe illustrations"
+      ]
+    },
+    {
+      "title": "🏛️ Architecture",
+      "blurb": "Buildings, spaces, and structural art",
+      "items": [
+        "Exterior architectural rendering",
+        "Interior design transformation",
+        "Blueprint-style technical diagram"
+      ]
+    },
+    {
+      "title": "📦 Product",
+      "blurb": "Commercial product visualization",
+      "items": [
+        "Product photography with clean backgrounds",
+        "Packaging design mockups",
+        "Logo and branding identity grids"
+      ]
+    },
+    {
+      "title": "✏️ Illustration",
+      "blurb": "Hand-drawn and digital art styles",
+      "items": [
+        "Vintage botanical scientific illustration",
+        "Continuous line minimalist art",
+        "Watercolor and gouache texture styles"
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "title": "No.1 · Anime Style Transformation",
+      "description": "Converts any uploaded photo into a trending anime art style with expressive proportions, cel shading, and comedic energy."
+    },
+    {
+      "title": "No.2 · Blueprint Poster",
+      "description": "Renders any subject as a clean white technical line drawing on a deep cobalt-blue blueprint background with schematic labels."
+    },
+    {
+      "title": "No.3 · Nighttime Flash Photography",
+      "description": "Transforms any photo into a candid nighttime editorial shot with harsh flash, deep shadows, and a raw fashion-nightlife aesthetic."
+    },
+    {
+      "title": "No.4 · Cinematic Film Strip",
+      "description": "Turns a single photo into 3 cinematic film stills with analog grain, motion blur, and a nostalgic color grade."
+    },
+    {
+      "title": "No.5 · Icon Design Grid",
+      "description": "Abstracts any subject into a grid of 16–20 minimalist vector-style logo variations covering geometric, line art, badge, and monogram styles."
+    },
+    {
+      "title": "No.6 · 3D Designer Toy Avatar",
+      "description": "Creates a premium glossy 3D vinyl toy render of any person with sculpted hair, retro sunglasses, and studio lighting against a blue sky."
+    },
+    {
+      "title": "No.7 · Mother's Day Queen of Hearts Card",
+      "description": "Generates a gouache-style double-sided Queen of Hearts playing card with the mother's face replacing the queen — perfect for a personalized gift."
+    },
+    {
+      "title": "No.8 · Continuous Line Mother's Day Drawing",
+      "description": "A minimalist single-stroke line portrait of a mother and child, woven with a rose motif and elegant handwritten message on a soft cream background."
+    }
+  ],
+  "toolNames": [
+    "🤖 AI Image Generator",
+    "📊 PPT Prompt Library",
+    "🖼️ PDF to JPG",
+    "✂️ Image Resizer",
+    "📺 YouTube Banner Maker",
+    "💇 AI Hairstyle",
+    "👨‍🍼 Happy Fathers Day",
+    "👩‍🍼 Happy Mothers Day",
+    "📊 Bar Graph Maker",
+    "🫓 Pie Chart Maker",
+    "🍪 Venn Diagram Maker"
+  ],
+  "toolLinkLabel": "surgepix.ai"
+}

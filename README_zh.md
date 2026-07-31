@@ -1,47 +1,42 @@
 <div align="center">
 
 <img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
+
 </div>
 
-# 🎨 Awesome GPT-Image-2 免费提示词库
+## 🎨 Awesome GPT Image 2 Prompts — Free & Open Source
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
 
 **最全面的 GPT-Image-2 免费提示词库**
-精选提示词 · 预览图 · 一键复制与生成 · 多语言 · 定期更新
-
 [![Prompts](https://img.shields.io/badge/提示词-367%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
-[![Weekly Updated](https://img.shields.io/badge/更新-每周-4ecdc4?style=flat-square)](#)
-[![Languages](https://img.shields.io/badge/语言-6%2B-45b7d1?style=flat-square)](#-多语言支持)
-[![License](https://img.shields.io/badge/许可证-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/网站-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
 
-[![EN](https://img.shields.io/badge/EN-English-blue?style=flat-square)](README.md)
-[![ZH](https://img.shields.io/badge/ZH-%E4%B8%AD%E6%96%87-red?style=flat-square)](README_zh.md)
-[![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-orange?style=flat-square)](README_tr.md)
-[![VI](https://img.shields.io/badge/VI-Ti%E1%BA%BFng%20Vi%E1%BB%87t-green?style=flat-square)](README_vi.md)
-[![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
-[![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
+[![EN](https://img.shields.io/badge/EN-English-lightgrey?style=flat-square)](README.md)
+[![ZH](https://img.shields.io/badge/ZH-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-brightgreen?style=flat-square)](#)
+[![ZH-HANT](https://img.shields.io/badge/ZH-HANT-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey?style=flat-square)](README_zh-Hant.md)
+[![JA](https://img.shields.io/badge/JA-%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey?style=flat-square)](README_ja.md)
+[![KO](https://img.shields.io/badge/KO-%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey?style=flat-square)](README_ko.md)
+[![TH](https://img.shields.io/badge/TH-%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey?style=flat-square)](README_th.md)
+[![ID](https://img.shields.io/badge/ID-Bahasa%20Indonesia-lightgrey?style=flat-square)](README_id.md)
+[![VI](https://img.shields.io/badge/VI-Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey?style=flat-square)](README_vi.md)
+[![DE](https://img.shields.io/badge/DE-Deutsch-lightgrey?style=flat-square)](README_de.md)
+[![FR](https://img.shields.io/badge/FR-Fran%C3%A7ais-lightgrey?style=flat-square)](README_fr.md)
+[![ES](https://img.shields.io/badge/ES-Espa%C3%B1ol-lightgrey?style=flat-square)](README_es.md)
+[![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
+[![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-> 9000+免费 **GPT Image 2 提示词**库 — 涵盖真实摄影、文字排版、UI/UX、
-> 游戏截图、角色设计和商业插画。即用提示词，支持多种语言。
+[![提示词](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%AF%8D-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
+[![语言](https://img.shields.io/badge/%E8%AF%AD%E8%A8%80-13-45b7d1?style=flat-square)](#--)
+[![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
 
-## 目录
-
-- [功能特色](#features)
-- [分类](#categories)
-- [精选提示词](#featured-prompts)
-- [多语言支持](#multilingual-support)
-- [使用方法](#how-to-use)
-- [来源追踪](#source-tracing)
-- [关于 GPT-Image-2](#about-gpt-image-2)
-- [贡献](CONTRIBUTING.md)
+> 9000+免费 **GPT Image 2 提示词**库 — 涵盖真实摄影、文字排版、UI/UX、 游戏截图、角色设计和商业插画。即用提示词，支持多种语言。
 
 [**→ 浏览完整提示词库**](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/zh-gpt-image-2-prompt-character.png)](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
-</div>
 
 ---
 
@@ -62,10 +57,26 @@
 
 ## 🗂️ 分类
 
-| 🖼️ OpenAI 官方 | 🎨 海报 / 动漫 | 📐 拼图 / 网格 | 📸 摄影 |
-|---|---|---|---|
-| 👤 肖像 | 💻 UI / UX | 🏛️ 建筑 | 📦 产品 |
-| ✏️ 插画 | 🎄 节日 / 节庆 | 🎭 角色 | ➕ 持续增加中 |
+<table>
+<tr>
+<td>🖼️ OpenAI 官方</td>
+<td>🎨 海报 / 动漫</td>
+<td>📐 拼图 / 网格</td>
+<td>📸 摄影</td>
+</tr>
+<tr>
+<td>👤 肖像</td>
+<td>💻 UI / UX</td>
+<td>🏛️ 建筑</td>
+<td>📦 产品</td>
+</tr>
+<tr>
+<td>✏️ 插画</td>
+<td>🎄 节日 / 节庆</td>
+<td>🎭 角色</td>
+<td>➕ 持续增加中</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🖼️ OpenAI 官方</b> — 来自 OpenAI 官方发布的提示词</summary>
@@ -168,12 +179,12 @@
 
 ## 🔥 精选提示词
 
-⭐ 由团队精心挑选，品质与创意俱佳 — [浏览全部 367+](https://surgepix.ai/resources/gpt-image-2-prompts)
+⭐ 由团队精心挑选，品质与创意俱佳 — [浏览全部 9,300+](https://surgepix.ai/resources/zh/gpt-image-2-prompts)
 
 ---
 
 <details>
-<summary><b>No.1 · 动漫风格转换</b></summary>
+<summary><b>No.1 · No.1 · 动漫风格转换</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -194,7 +205,7 @@ Create a trending anime art style image from the uploaded subject. Use confident
 ---
 
 <details>
-<summary><b>No.2 · 蓝图海报</b></summary>
+<summary><b>No.2 · No.2 · 蓝图海报</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -215,7 +226,7 @@ Create a single-subject blueprint poster using only the main subject from the up
 ---
 
 <details>
-<summary><b>No.3 · 夜间闪光摄影</b></summary>
+<summary><b>No.3 · No.3 · 夜间闪光摄影</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -236,7 +247,7 @@ Transform the photo into nighttime chic flash photography. Use harsh direct on-c
 ---
 
 <details>
-<summary><b>No.4 · 电影胶片分镜</b></summary>
+<summary><b>No.4 · No.4 · 电影胶片分镜</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -257,7 +268,7 @@ Transform the uploaded image into cinematic 3-frame sequential film stills (hori
 ---
 
 <details>
-<summary><b>No.5 · 图标设计网格</b></summary>
+<summary><b>No.5 · No.5 · 图标设计网格</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -278,7 +289,7 @@ Transform this image into a grid of minimalist logos using the main subject as t
 ---
 
 <details>
-<summary><b>No.6 · 3D 设计师玩具头像</b></summary>
+<summary><b>No.6 · No.6 · 3D 设计师玩具头像</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -299,7 +310,7 @@ Create a premium glossy 3D "designer toy" render of the subject(s) using the upl
 ---
 
 <details>
-<summary><b>No.7 · 母亲节红心皇后贺卡</b></summary>
+<summary><b>No.7 · No.7 · 母亲节红心皇后贺卡</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![Mother's Day](https://img.shields.io/badge/Mother's%20Day-ff69b4?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -321,7 +332,7 @@ The character's face and hairstyle are completely based on a real mother's gentl
 ---
 
 <details>
-<summary><b>No.8 · 母亲节连续线条插画</b></summary>
+<summary><b>No.8 · No.8 · 母亲节连续线条插画</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![Mother's Day](https://img.shields.io/badge/Mother's%20Day-ff69b4?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -338,19 +349,26 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 [**→ 使用此提示词生成**](https://surgepix.ai/)
 
 </details>
+
 ---
 
 ## 🌍 多语言支持
 
 本库支持多种语言，且持续增加：
 
-- 🇺🇸 English（英语）
-- 🇨🇳 中文
-- 🇵🇱 Polski（波兰语）
-- 🇻🇳 Tiếng Việt（越南语）
-- 🇮🇩 Bahasa Indonesia（印尼语）
-- 🇹🇷 Türkçe（土耳其语）
-- ➕ 更多语言即将上线
+- 🇺🇸 [English](README.md)
+- 🇨🇳 [简体中文](#)
+- 🇭🇰 [繁體中文](README_zh-Hant.md)
+- 🇯🇵 [日本語](README_ja.md)
+- 🇰🇷 [한국어](README_ko.md)
+- 🇹🇭 [ไทย](README_th.md)
+- 🇮🇩 [Bahasa Indonesia](README_id.md)
+- 🇻🇳 [Tiếng Việt](README_vi.md)
+- 🇩🇪 [Deutsch](README_de.md)
+- 🇫🇷 [Français](README_fr.md)
+- 🇪🇸 [Español](README_es.md)
+- 🇹🇷 [Türkçe](README_tr.md)
+- 🇵🇱 [Polski](README_pl.md)
 
 ---
 
@@ -383,7 +401,7 @@ GPT-Image-2 是 OpenAI 最新的图像生成模型，以下为其核心优势：
 - 对详细指令的精准理解与执行
 - 高质量海报、信息图、UI 原型及角色设计
 
-了解更多：[SurgePix GPT-Image-2 指南](https://surgepix.ai/blog/resources/chatgpt-images-2-0)
+了解更多: [SurgePix GPT-Image-2 指南](https://surgepix.ai/blog/resources/chatgpt-images-2-0)
 
 ---
 
@@ -392,16 +410,16 @@ GPT-Image-2 是 OpenAI 最新的图像生成模型，以下为其核心优势：
 | 工具 | 链接 |
 |---|---|
 | 🤖 AI 图像生成器 | [surgepix.ai](https://surgepix.ai) |
-| 📊 PPT 提示词库 | [Awesome PPT Prompts](https://surgepix.ai/resources/zh/awesome-ppt-prompts) |
-| 🖼️ PDF 转 JPG | [工具](https://surgepix.ai/tools/operation?type=1) |
-| ✂️ 图片尺寸调整 | [工具](https://surgepix.ai/tools/operation?type=4) |
-| 📺 YouTube 横幅制作 | [工具](https://surgepix.ai/tools/operation?type=5) |
-| 💇 AI 发型设计 | [工具](https://surgepix.ai/tools/operation?type=6) |
-| 👨‍🍼 父亲节贺卡 | [工具](https://surgepix.ai/tools/operation?type=7) |
-| 👩‍🍼 母亲节贺卡 | [工具](https://surgepix.ai/tools/operation?type=8) |
-| 📊 条形图制作 | [工具](https://surgepix.ai/tools/operation?type=9) |
-| 🥧 饼图制作 | [工具](https://surgepix.ai/tools/operation?type=10) |
-| 🔵 韦恩图制作 | [工具](https://surgepix.ai/tools/operation?type=11) |
+| 📊 PPT 提示词库 | [surgepix.ai](https://surgepix.ai/resources/zh/awesome-ppt-prompts) |
+| 🖼️ PDF 转 JPG | [surgepix.ai](https://surgepix.ai/tools/operation?type=1) |
+| ✂️ 图片尺寸调整 | [surgepix.ai](https://surgepix.ai/tools/operation?type=4) |
+| 📺 YouTube 横幅制作 | [surgepix.ai](https://surgepix.ai/tools/operation?type=5) |
+| 💇 AI 发型设计 | [surgepix.ai](https://surgepix.ai/tools/operation?type=6) |
+| 👨‍🍼 父亲节贺卡 | [surgepix.ai](https://surgepix.ai/tools/operation?type=7) |
+| 👩‍🍼 母亲节贺卡 | [surgepix.ai](https://surgepix.ai/tools/operation?type=8) |
+| 📊 条形图制作 | [surgepix.ai](https://surgepix.ai/tools/operation?type=9) |
+| 🥧 饼图制作 | [surgepix.ai](https://surgepix.ai/tools/operation?type=10) |
+| 🔵 韦恩图制作 | [surgepix.ai](https://surgepix.ai/tools/operation?type=11) |
 
 ---
 
@@ -409,7 +427,7 @@ GPT-Image-2 是 OpenAI 最新的图像生成模型，以下为其核心优势：
 
 - 关注我们的 [X / Twitter](https://x.com/surgepix_AI)
 - 加入 [Discord](https://discord.gg/wC5XeHN6fR)
-- 访问 [surgepix.ai](https://surgepix.ai)
+- 访问 [surgepix.ai](https://surgepix.ai/)
 
 ---
 

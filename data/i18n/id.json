@@ -1,0 +1,219 @@
+{
+  "tagline": "Perpustakaan prompt GPT-Image-2 gratis paling lengkap",
+  "intro": "Perpustakaan **prompt GPT Image 2** gratis terbesar — mencakup fotorealisme, tipografi, UI/UX, screenshot game, desain karakter, dan ilustrasi komersial. 9000+ prompt siap pakai, tersedia dalam berbagai bahasa.",
+  "headings": [
+    "Daftar Isi",
+    "✨ Fitur",
+    "🗂️ Kategori",
+    "🔥 Prompt Unggulan",
+    "🌍 Dukungan Multibahasa",
+    "🚀 Cara Menggunakan",
+    "🔗 Lacak Sumber",
+    "📌 Tentang GPT-Image-2",
+    "🛠️ Alat Gratis dari SurgePix",
+    "📬 Tetap Terhubung"
+  ],
+  "features": [
+    {
+      "icon": "🖼️",
+      "name": "Pratinjau Gambar",
+      "desc": "Setiap prompt dilengkapi pratinjau gambar AI yang nyata"
+    },
+    {
+      "icon": "📋",
+      "name": "Salin 1 Klik",
+      "desc": "Salin prompt ke clipboard secara instan"
+    },
+    {
+      "icon": "⚡",
+      "name": "Buat Langsung",
+      "desc": "Langsung ke SurgePix untuk membuat gambar dengan prompt"
+    },
+    {
+      "icon": "🌍",
+      "name": "Multibahasa",
+      "desc": "Prompt dan antarmuka tersedia dalam berbagai bahasa"
+    },
+    {
+      "icon": "🔍",
+      "name": "Filter Kategori",
+      "desc": "Telusuri berdasarkan gaya, kegunaan, atau jenis konten"
+    },
+    {
+      "icon": "🔗",
+      "name": "Lacak Sumber",
+      "desc": "Setiap prompt komunitas terhubung ke postingan media sosial aslinya"
+    },
+    {
+      "icon": "📅",
+      "name": "Pembaruan Rutin",
+      "desc": "Prompt baru ditambahkan setiap hari dari kreator terbaik"
+    },
+    {
+      "icon": "🆓",
+      "name": "Sepenuhnya Gratis",
+      "desc": "Tanpa login, tanpa paywall"
+    }
+  ],
+  "categoryGrid": [
+    "🖼️ OpenAI Resmi",
+    "🎨 Poster / Anime",
+    "📐 Grid / Kolase",
+    "📸 Fotografi",
+    "👤 Potret",
+    "💻 UI / UX",
+    "🏛️ Arsitektur",
+    "📦 Produk",
+    "✏️ Ilustrasi",
+    "🎄 Festival / Hari Raya",
+    "🎭 Karakter",
+    "➕ Terus ditambahkan"
+  ],
+  "categories": [
+    {
+      "title": "🖼️ OpenAI Resmi",
+      "blurb": "Prompt dari rilis resmi OpenAI",
+      "items": [
+        "**Gaya Anime** — Ubah foto apapun menjadi seni anime tren dengan cel shading dan proporsi ekspresif",
+        "**Poster Blueprint** — Render objek sebagai diagram garis teknis putih bersih pada latar belakang biru kobalt gelap",
+        "**Strip Film** — Ubah foto menjadi 3 frame film sinematik berurutan dengan butiran film analog",
+        "**Komik Strip** — Recreate adegan dalam gaya komik retro Amerika dengan tekstur halftone",
+        "**Kisi Desain Ikon** — Abstraksikan objek menjadi 16–20 variasi logo vektor minimalis",
+        "**Kartu Tarot** — Buat kartu tarot personal dalam gaya gambar tangan Rider-Waite klasik",
+        "**Avatar 3D** — Buat render mainan vinil mengkilap dengan rambut terpahat dan kacamata retro",
+        "**Botani Vintage** — Interpretasikan ulang objek sebagai ilustrasi atlas ilmiah abad ke-19"
+      ]
+    },
+    {
+      "title": "🎄 Hari Ibu / Festival",
+      "blurb": "Kartu ucapan musiman dan seni hari raya",
+      "items": [
+        "**Kartu Ratu Hati** — Kartu bermain gaya gouache dengan wajah ibu menggantikan ratu",
+        "**Kartu Ilustrasi Datar** — Poster kartu bermain monokromatik pink-merah minimalis",
+        "**Fotografi Bunga Anyelir** — Kartu realistis dengan bunga anyelir bokeh lembut dan ruang pesan",
+        "**Kartu Tulip Matisse** — Susunan tulip datar abstrak terinspirasi teknik guntingan Matisse",
+        "**Gambar Garis Berkelanjutan** — Potret ibu dan anak satu sapuan dengan motif bunga mawar"
+      ]
+    },
+    {
+      "title": "🎨 Poster / Anime",
+      "blurb": "Seni karakter bergaya dan poster grafis",
+      "items": [
+        "Transformasi karakter anime dari referensi foto",
+        "Desain poster retro dengan tipografi tebal",
+        "Poster acara ilustrasi datar dengan palet warna kustom"
+      ]
+    },
+    {
+      "title": "📐 Kisi / Kolase",
+      "blurb": "Tata letak multi-panel dan desain komposit",
+      "items": [
+        "Kolase mood board 4 panel",
+        "Tata letak kisi cerita berurutan",
+        "Kisi perbandingan sebelum/sesudah"
+      ]
+    },
+    {
+      "title": "📸 Fotografi",
+      "blurb": "Gaya foto sinematik dan editorial",
+      "items": [
+        "**Flash Malam** — Flash kamera keras dengan bayangan dalam dan sorotan mengkilap",
+        "**Film Grain Sinematik** — Frame film kontras tinggi nada dingin dengan blur gerakan",
+        "**Desain Interior** — Transformasi ruangan realistis gaya mid-century modern"
+      ]
+    },
+    {
+      "title": "👤 Potret",
+      "blurb": "Generasi fokus pada karakter dan orang",
+      "items": [
+        "Potret anime bergaya dari foto",
+        "Avatar mainan vinil 3D",
+        "Potret kartu tarot personal"
+      ]
+    },
+    {
+      "title": "💻 UI / UX",
+      "blurb": "Mockup antarmuka dan visual desain aplikasi",
+      "items": [
+        "Mockup layar aplikasi mobile",
+        "UI dasbor dan visualisasi data",
+        "Ilustrasi wireframe halaman arahan"
+      ]
+    },
+    {
+      "title": "🏛️ Arsitektur",
+      "blurb": "Bangunan, ruang, dan seni struktural",
+      "items": [
+        "Rendering arsitektur eksterior",
+        "Transformasi desain interior",
+        "Diagram teknis gaya blueprint"
+      ]
+    },
+    {
+      "title": "📦 Produk",
+      "blurb": "Visualisasi produk komersial",
+      "items": [
+        "Fotografi produk dengan latar belakang bersih",
+        "Mockup desain kemasan",
+        "Kisi logo dan identitas merek"
+      ]
+    },
+    {
+      "title": "✏️ Ilustrasi",
+      "blurb": "Gaya seni gambar tangan dan digital",
+      "items": [
+        "Ilustrasi ilmiah botani vintage",
+        "Seni minimalis garis berkelanjutan",
+        "Gaya tekstur cat air dan gouache"
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "title": "No.1 · Transformasi Gaya Anime",
+      "description": "Mengubah foto yang diunggah menjadi gaya seni anime tren dengan proporsi berlebihan, cel shading, dan energi komedi."
+    },
+    {
+      "title": "No.2 · Poster Blueprint",
+      "description": "Merender objek apapun sebagai gambar garis teknis putih bersih pada latar belakang biru kobalt gelap dengan label skematik."
+    },
+    {
+      "title": "No.3 · Fotografi Flash Malam",
+      "description": "Mengubah foto menjadi jepretan editorial malam candid dengan flash keras, bayangan dalam, dan estetika mode-kehidupan malam mentah."
+    },
+    {
+      "title": "No.4 · Strip Film Sinematik",
+      "description": "Mengubah satu foto menjadi 3 frame film sinematik dengan butiran film analog, blur gerakan, dan gradasi warna nostalgia."
+    },
+    {
+      "title": "No.5 · Kisi Desain Ikon",
+      "description": "Mengabstraksikan objek apapun menjadi 16–20 variasi logo vektor minimalis mencakup geometris, line art, lencana, dan monogram."
+    },
+    {
+      "title": "No.6 · Avatar Mainan Designer 3D",
+      "description": "Membuat render mainan vinil 3D mengkilap premium untuk siapapun dengan rambut terpahat, kacamata retro, dan pencahayaan studio berlatar langit biru."
+    },
+    {
+      "title": "No.7 · Kartu Hari Ibu - Ratu Hati",
+      "description": "Membuat kartu bermain Ratu Hati dua sisi gaya gouache dengan wajah ibu menggantikan ratu — sempurna untuk hadiah personal."
+    },
+    {
+      "title": "No.8 · Gambar Garis Berkelanjutan Hari Ibu",
+      "description": "Potret ibu dan anak minimalis satu sapuan, dipadukan dengan motif bunga mawar dan pesan tulisan tangan elegan di latar krem lembut."
+    }
+  ],
+  "toolNames": [
+    "🤖 Generator Gambar AI",
+    "📊 Perpustakaan Prompt PPT",
+    "🖼️ PDF ke JPG",
+    "✂️ Pengubah Ukuran Gambar",
+    "📺 Pembuat Banner YouTube",
+    "💇 Gaya Rambut AI",
+    "👨‍🍼 Hari Ayah",
+    "👩‍🍼 Hari Ibu",
+    "📊 Pembuat Diagram Batang",
+    "🥧 Pembuat Diagram Lingkaran",
+    "🔵 Diagram Venn"
+  ],
+  "toolLinkLabel": "surgepix.ai"
+}

@@ -1,0 +1,219 @@
+{
+  "tagline": "Najbardziej kompleksowa darmowa biblioteka promptów dla GPT-Image-2",
+  "intro": "Największa darmowa biblioteka **promptów GPT Image 2** — obejmuje fotorealizm, typografię, UI/UX, screenshoty z gier, projektowanie postaci i ilustrację komercyjną. 9000+ gotowych promptów, dostępnych w wielu językach.",
+  "headings": [
+    "Spis treści",
+    "✨ Funkcje",
+    "🗂️ Kategorie",
+    "🔥 Wyróżnione Prompty",
+    "🌍 Wsparcie Wielojęzyczne",
+    "🚀 Jak Używać",
+    "🔗 Śledzenie Źródeł",
+    "📌 O GPT-Image-2",
+    "🛠️ Darmowe Narzędzia SurgePix",
+    "📬 Bądź na Bieżąco"
+  ],
+  "features": [
+    {
+      "icon": "🖼️",
+      "name": "Podgląd obrazów",
+      "desc": "Każdy prompt zawiera prawdziwy podgląd obrazu wygenerowanego przez AI"
+    },
+    {
+      "icon": "📋",
+      "name": "Kopiowanie jednym kliknięciem",
+      "desc": "Skopiuj dowolny prompt do schowka natychmiast"
+    },
+    {
+      "icon": "⚡",
+      "name": "Bezpośrednie generowanie",
+      "desc": "Przejdź do SurgePix i wygeneruj obraz bezpośrednio z promptem"
+    },
+    {
+      "icon": "🌍",
+      "name": "Wielojęzyczność",
+      "desc": "Prompty i interfejs dostępne w wielu językach"
+    },
+    {
+      "icon": "🔍",
+      "name": "Filtry kategorii",
+      "desc": "Przeglądaj według stylu, zastosowania lub typu treści"
+    },
+    {
+      "icon": "🔗",
+      "name": "Śledzenie źródeł",
+      "desc": "Każdy prompt społeczności prowadzi do oryginalnego wpisu w mediach społecznościowych"
+    },
+    {
+      "icon": "📅",
+      "name": "Regularne aktualizacje",
+      "desc": "Nowe prompty dodawane każdego dnia od najlepszych twórców"
+    },
+    {
+      "icon": "🆓",
+      "name": "Całkowicie bezpłatna",
+      "desc": "Bez logowania, bez paywall"
+    }
+  ],
+  "categoryGrid": [
+    "🖼️ Oficjalne OpenAI",
+    "🎨 Plakat / Anime",
+    "📐 Siatka / Kolaż",
+    "📸 Fotografia",
+    "👤 Portret",
+    "💻 UI / UX",
+    "🏛️ Architektura",
+    "📦 Produkt",
+    "✏️ Ilustracja",
+    "🎄 Festiwal / Święto",
+    "🎭 Postać",
+    "➕ Regularnie dodawane"
+  ],
+  "categories": [
+    {
+      "title": "🖼️ Oficjalne OpenAI",
+      "blurb": "Prompty z oficjalnych wydań OpenAI",
+      "items": [
+        "**Styl Anime** — Przekształć dowolne zdjęcie w popularny styl anime z cel shadingiem i wyrazistymi proporcjami",
+        "**Plakat Blueprintowy** — Renderuj obiekty jako białe schematy techniczne na głębokoniebieskim tle",
+        "**Taśma Filmowa** — Zamień zdjęcia w 3-klatkowe ujęcia filmowe z analogowym ziarnem",
+        "**Komiks** — Odtwórz sceny w stylu retro komiksu z teksturą halftone",
+        "**Siatka Projektowania Ikon** — Abstrakcja obiektu w 16–20 minimalistycznych wariantów logo wektorowego",
+        "**Karta Tarota** — Wygeneruj spersonalizowaną kartę tarota w stylu ręcznie rysowanym Rider-Waite",
+        "**Awatar 3D** — Stwórz błyszczący render winylowej figurki z stylizowanymi włosami i retro okularami",
+        "**Vintage Botanika** — Zreinterpretuj obiekt jako ilustrację naukowego atlasu XIX wieku"
+      ]
+    },
+    {
+      "title": "🎄 Dzień Matki / Święta",
+      "blurb": "Sezonowe kartki okolicznościowe i sztuka świąteczna",
+      "items": [
+        "**Karta Królowej Kier** — Karta do gry w stylu gwaszu z twarzą mamy zastępującą królową",
+        "**Karta Płaskiej Ilustracji** — Minimalistyczny monochromatyczny plakat karty w odcieniach różowo-czerwonych",
+        "**Fotografia Goździków** — Realistyczna kartka z miękkim bokeh goździków i miejscem na wiadomość",
+        "**Karta Tulipanów Matisse'a** — Abstrakcyjna kompozycja tulipanów inspirowana techniką wycinanki Matisse'a",
+        "**Rysunek Ciągłą Linią** — Portret matki i dziecka jednym pociągnięciem z motywem róży"
+      ]
+    },
+    {
+      "title": "🎨 Plakat / Anime",
+      "blurb": "Stylizowana sztuka postaci i plakaty graficzne",
+      "items": [
+        "Transformacja postaci anime z referencją fotograficzną",
+        "Projekt plakatu retro z pogrubioną typografią",
+        "Plakaty eventowe w stylu płaskiej ilustracji z niestandardowymi paletami kolorów"
+      ]
+    },
+    {
+      "title": "📐 Siatka / Kolaż",
+      "blurb": "Układy wielopanelowe i projekty złożone",
+      "items": [
+        "Kolaże mood board w 4 panelach",
+        "Sekwencyjne układy siatki narracyjnej",
+        "Siatki porównawcze przed/po"
+      ]
+    },
+    {
+      "title": "📸 Fotografia",
+      "blurb": "Filmowe i edytorskie style zdjęć",
+      "items": [
+        "**Nocny Flesz** — Ostry flesz na aparacie z głębokimi cieniami i błyszczącymi podświetleniami",
+        "**Filmowe Ziarno** — Zimnotonowe klatki filmowe o wysokim kontraście z rozmyciem ruchu",
+        "**Projektowanie Wnętrz** — Fotorealistyczna transformacja pokoju w stylu mid-century modern"
+      ]
+    },
+    {
+      "title": "👤 Portret",
+      "blurb": "Generowania skupione na postaciach i ludziach",
+      "items": [
+        "Stylizowany portret anime ze zdjęcia",
+        "Awatar winylowej figurki 3D",
+        "Spersonalizowany portret na karcie tarota"
+      ]
+    },
+    {
+      "title": "💻 UI / UX",
+      "blurb": "Makiety interfejsów i wizualizacje projektów aplikacji",
+      "items": [
+        "Makiety ekranów aplikacji mobilnych",
+        "UI panelu sterowania i wizualizacji danych",
+        "Ilustracje wireframe strony docelowej"
+      ]
+    },
+    {
+      "title": "🏛️ Architektura",
+      "blurb": "Budynki, przestrzenie i sztuka strukturalna",
+      "items": [
+        "Rendering zewnętrzny architektoniczny",
+        "Transformacja projektu wnętrz",
+        "Diagram techniczny w stylu blueprintu"
+      ]
+    },
+    {
+      "title": "📦 Produkt",
+      "blurb": "Komercyjna wizualizacja produktów",
+      "items": [
+        "Fotografia produktów na czystym tle",
+        "Makiety projektów opakowań",
+        "Siatki logo i identyfikacji wizualnej"
+      ]
+    },
+    {
+      "title": "✏️ Ilustracja",
+      "blurb": "Style sztuki ręcznie rysowanej i cyfrowej",
+      "items": [
+        "Vintage naukowa ilustracja botaniczna",
+        "Minimalistyczna sztuka ciągłej linii",
+        "Style tekstury akwareli i gwaszu"
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "title": "No.1 · Transformacja Stylu Anime",
+      "description": "Konwertuje dowolne przesłane zdjęcie na popularny styl anime z wyrazistymi proporcjami, cel shadingiem i komediową energią."
+    },
+    {
+      "title": "No.2 · Plakat Blueprintowy",
+      "description": "Renderuje dowolny obiekt jako czysty biały rysunek techniczny na głębokoniebieskim tle z etykietami schematycznymi."
+    },
+    {
+      "title": "No.3 · Nocna Fotografia z Flesze",
+      "description": "Przekształca zdjęcie w spontaniczne nocne ujęcie edytorskie z ostrym flesze, głębokimi cieniami i surową estetyką mody nocnej."
+    },
+    {
+      "title": "No.4 · Filmowa Taśma Kinowa",
+      "description": "Zamienia pojedyncze zdjęcie w 3 filmowe kadry z analogowym ziarnem, rozmyciem ruchu i nostalgiczną gradacją kolorów."
+    },
+    {
+      "title": "No.5 · Siatka Projektowania Ikon",
+      "description": "Abstrahuje dowolny obiekt w 16–20 minimalistycznych wariantów logo wektorowego obejmujących style geometryczne, line art, odznaki i monogramy."
+    },
+    {
+      "title": "No.6 · Awatar Figurki 3D Designer",
+      "description": "Tworzy premium błyszczący render winylowej figurki 3D dla dowolnej osoby z rzeźbionymi włosami, retro okularami i oświetleniem studyjnym na tle błękitnego nieba."
+    },
+    {
+      "title": "No.7 · Kartka Dnia Matki - Królowa Kier",
+      "description": "Generuje dwustronną kartę Królowej Kier w stylu gwaszu z twarzą mamy zastępującą królową — idealna na spersonalizowany prezent."
+    },
+    {
+      "title": "No.8 · Rysunek Ciągłą Linią na Dzień Matki",
+      "description": "Minimalistyczny portret matki i dziecka jednym pociągnięciem z motywem róży i elegancką odręczną wiadomością na kremowym tle."
+    }
+  ],
+  "toolNames": [
+    "🤖 Generator obrazów AI",
+    "📊 Biblioteka promptów PPT",
+    "🖼️ PDF do JPG",
+    "✂️ Zmiana rozmiaru obrazu",
+    "📺 Twórca banerów YouTube",
+    "💇 Fryzura AI",
+    "👨‍🍼 Dzień Ojca",
+    "👩‍🍼 Dzień Matki",
+    "📊 Twórca wykresów słupkowych",
+    "🥧 Twórca wykresów kołowych",
+    "🔵 Diagram Venna"
+  ],
+  "toolLinkLabel": "surgepix.ai"
+}

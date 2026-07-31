@@ -4,42 +4,35 @@
 
 </div>
 
-# 🎨 Awesome GPT-Image-2 Prompt Miễn Phí
+## 🎨 Awesome GPT Image 2 Prompts — Free & Open Source
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
 
 **Thư viện prompt GPT-Image-2 miễn phí toàn diện nhất**
-
 Prompt được tuyển chọn · Ảnh xem trước · Sao chép & tạo ảnh 1 cú nhấp · Đa ngôn ngữ · Cập nhật thường xuyên
 
-[![Prompts](https://img.shields.io/badge/Prompts-367%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
-[![Weekly Updated](https://img.shields.io/badge/Cập%20nhật-Hàng%20tuần-4ecdc4?style=flat-square)](#)
-[![Languages](https://img.shields.io/badge/Ngôn%20ngữ-6%2B-45b7d1?style=flat-square)](#-hỗ-trợ-đa-ngôn-ngữ)
-[![License](https://img.shields.io/badge/Giấy%20phép-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
+[![EN](https://img.shields.io/badge/EN-English-lightgrey?style=flat-square)](README.md)
+[![ZH](https://img.shields.io/badge/ZH-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey?style=flat-square)](README_zh.md)
+[![ZH-HANT](https://img.shields.io/badge/ZH-HANT-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey?style=flat-square)](README_zh-Hant.md)
+[![JA](https://img.shields.io/badge/JA-%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey?style=flat-square)](README_ja.md)
+[![KO](https://img.shields.io/badge/KO-%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey?style=flat-square)](README_ko.md)
+[![TH](https://img.shields.io/badge/TH-%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey?style=flat-square)](README_th.md)
+[![ID](https://img.shields.io/badge/ID-Bahasa%20Indonesia-lightgrey?style=flat-square)](README_id.md)
+[![VI](https://img.shields.io/badge/VI-Ti%E1%BA%BFng%20Vi%E1%BB%87t-brightgreen?style=flat-square)](#)
+[![DE](https://img.shields.io/badge/DE-Deutsch-lightgrey?style=flat-square)](README_de.md)
+[![FR](https://img.shields.io/badge/FR-Fran%C3%A7ais-lightgrey?style=flat-square)](README_fr.md)
+[![ES](https://img.shields.io/badge/ES-Espa%C3%B1ol-lightgrey?style=flat-square)](README_es.md)
+[![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
+[![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![EN](https://img.shields.io/badge/EN-English-blue?style=flat-square)](README.md)
-[![ZH](https://img.shields.io/badge/ZH-%E4%B8%AD%E6%96%87-red?style=flat-square)](README_zh.md)
-[![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-orange?style=flat-square)](README_tr.md)
-[![VI](https://img.shields.io/badge/VI-Ti%E1%BA%BFng%20Vi%E1%BB%87t-green?style=flat-square)](README_vi.md)
-[![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
-[![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
+[![Prompts](https://img.shields.io/badge/Prompts-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
+[![Ngôn ngữ](https://img.shields.io/badge/Ng%C3%B4n%20ng%E1%BB%AF-13-45b7d1?style=flat-square)](#-h-tr-a-ng-n-ng-)
+[![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
 
-> Thư viện **prompt GPT Image 2** miễn phí lớn nhất — bao gồm chân thực,
-> typography, UI/UX, ảnh chụp màn hình game, thiết kế nhân vật và minh họa thương mại.
-> 9000+ prompt sẵn sàng sử dụng, hỗ trợ nhiều ngôn ngữ.
-
-## Mục lục
-
-- [Tính năng](#features)
-- [Danh mục](#categories)
-- [Prompt Nổi bật](#featured-prompts)
-- [Hỗ trợ đa ngôn ngữ](#multilingual-support)
-- [Cách sử dụng](#how-to-use)
-- [Truy xuất nguồn gốc](#source-tracing)
-- [Về GPT-Image-2](#about-gpt-image-2)
-- [Đóng góp](CONTRIBUTING.md)
+> Thư viện **prompt GPT Image 2** miễn phí lớn nhất — bao gồm chân thực, typography, UI/UX, ảnh chụp màn hình game, thiết kế nhân vật và minh họa thương mại. 9000+ prompt sẵn sàng sử dụng, hỗ trợ nhiều ngôn ngữ.
 
 [**→ Xem Toàn Bộ Thư Viện**](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
 
@@ -64,10 +57,26 @@ Prompt được tuyển chọn · Ảnh xem trước · Sao chép & tạo ảnh 
 
 ## 🗂️ Danh Mục
 
-| 🖼️ OpenAI Chính thức | 🎨 Poster / Anime | 📐 Lưới / Ghép ảnh | 📸 Nhiếp ảnh |
-|---|---|---|---|
-| 👤 Chân dung | 💻 UI / UX | 🏛️ Kiến trúc | 📦 Sản phẩm |
-| ✏️ Minh họa | 🎄 Lễ hội / Kỳ nghỉ | 🎭 Nhân vật | ➕ Thêm thường xuyên |
+<table>
+<tr>
+<td>🖼️ OpenAI Chính thức</td>
+<td>🎨 Poster / Anime</td>
+<td>📐 Lưới / Ghép ảnh</td>
+<td>📸 Nhiếp ảnh</td>
+</tr>
+<tr>
+<td>👤 Chân dung</td>
+<td>💻 UI / UX</td>
+<td>🏛️ Kiến trúc</td>
+<td>📦 Sản phẩm</td>
+</tr>
+<tr>
+<td>✏️ Minh họa</td>
+<td>🎄 Lễ hội / Kỳ nghỉ</td>
+<td>🎭 Nhân vật</td>
+<td>➕ Thêm thường xuyên</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🖼️ OpenAI Chính Thức</b> — Prompt từ các bản phát hành chính thức của OpenAI</summary>
@@ -170,12 +179,12 @@ Prompt được tuyển chọn · Ảnh xem trước · Sao chép & tạo ảnh 
 
 ## 🔥 Prompt Nổi Bật
 
-⭐ Được tuyển chọn kỹ lưỡng vì chất lượng và sáng tạo xuất sắc — [Xem tất cả 367+](https://surgepix.ai/resources/gpt-image-2-prompts)
+⭐ Được tuyển chọn kỹ lưỡng vì chất lượng và sáng tạo xuất sắc — [Xem tất cả 9,300+](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
 
 ---
 
 <details>
-<summary><b>No.1 · Chuyển Đổi Phong Cách Anime</b></summary>
+<summary><b>No.1 · No.1 · Chuyển Đổi Phong Cách Anime</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -196,7 +205,7 @@ Create a trending anime art style image from the uploaded subject. Use confident
 ---
 
 <details>
-<summary><b>No.2 · Poster Bản Vẽ Kỹ Thuật</b></summary>
+<summary><b>No.2 · No.2 · Poster Bản Vẽ Kỹ Thuật</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -217,7 +226,7 @@ Create a single-subject blueprint poster using only the main subject from the up
 ---
 
 <details>
-<summary><b>No.3 · Chụp Ảnh Flash Ban Đêm</b></summary>
+<summary><b>No.3 · No.3 · Chụp Ảnh Flash Ban Đêm</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -238,7 +247,7 @@ Transform the photo into nighttime chic flash photography. Use harsh direct on-c
 ---
 
 <details>
-<summary><b>No.4 · Thước Phim Điện Ảnh</b></summary>
+<summary><b>No.4 · No.4 · Thước Phim Điện Ảnh</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -259,7 +268,7 @@ Transform the uploaded image into cinematic 3-frame sequential film stills (hori
 ---
 
 <details>
-<summary><b>No.5 · Lưới Thiết Kế Icon</b></summary>
+<summary><b>No.5 · No.5 · Lưới Thiết Kế Icon</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -280,7 +289,7 @@ Transform this image into a grid of minimalist logos using the main subject as t
 ---
 
 <details>
-<summary><b>No.6 · Avatar Đồ Chơi 3D Designer</b></summary>
+<summary><b>No.6 · No.6 · Avatar Đồ Chơi 3D Designer</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -301,7 +310,7 @@ Create a premium glossy 3D "designer toy" render of the subject(s) using the upl
 ---
 
 <details>
-<summary><b>No.7 · Thiệp Ngày của Mẹ - Nữ Hoàng Cơ Đỏ</b></summary>
+<summary><b>No.7 · No.7 · Thiệp Ngày của Mẹ - Nữ Hoàng Cơ Đỏ</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![Mother's Day](https://img.shields.io/badge/Mother's%20Day-ff69b4?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -323,7 +332,7 @@ The character's face and hairstyle are completely based on a real mother's gentl
 ---
 
 <details>
-<summary><b>No.8 · Hình Vẽ Đường Liên Tục Ngày của Mẹ</b></summary>
+<summary><b>No.8 · No.8 · Hình Vẽ Đường Liên Tục Ngày của Mẹ</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![Mother's Day](https://img.shields.io/badge/Mother's%20Day-ff69b4?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -340,19 +349,26 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 [**→ Tạo ảnh với prompt này**](https://surgepix.ai/)
 
 </details>
+
 ---
 
 ## 🌍 Hỗ Trợ Đa Ngôn Ngữ
 
 Thư viện hỗ trợ nhiều ngôn ngữ và sẽ tiếp tục bổ sung thêm:
 
-- 🇺🇸 English (Tiếng Anh)
-- 🇨🇳 中文 (Tiếng Trung)
-- 🇵🇱 Polski (Tiếng Ba Lan)
-- 🇻🇳 Tiếng Việt
-- 🇮🇩 Bahasa Indonesia (Tiếng Indonesia)
-- 🇹🇷 Türkçe (Tiếng Thổ Nhĩ Kỳ)
-- ➕ Thêm ngôn ngữ sắp ra mắt
+- 🇺🇸 [English](README.md)
+- 🇨🇳 [简体中文](README_zh.md)
+- 🇭🇰 [繁體中文](README_zh-Hant.md)
+- 🇯🇵 [日本語](README_ja.md)
+- 🇰🇷 [한국어](README_ko.md)
+- 🇹🇭 [ไทย](README_th.md)
+- 🇮🇩 [Bahasa Indonesia](README_id.md)
+- 🇻🇳 [Tiếng Việt](#)
+- 🇩🇪 [Deutsch](README_de.md)
+- 🇫🇷 [Français](README_fr.md)
+- 🇪🇸 [Español](README_es.md)
+- 🇹🇷 [Türkçe](README_tr.md)
+- 🇵🇱 [Polski](README_pl.md)
 
 ---
 
@@ -394,16 +410,16 @@ Tìm hiểu thêm: [Hướng dẫn GPT-Image-2 của SurgePix](https://surgepix.
 | Công cụ | Liên kết |
 |---|---|
 | 🤖 Tạo ảnh AI | [surgepix.ai](https://surgepix.ai) |
-| 📊 Thư viện Prompt PPT | [Awesome PPT Prompts](https://surgepix.ai/resources/vi/awesome-ppt-prompts) |
-| 🖼️ PDF sang JPG | [Công cụ](https://surgepix.ai/tools/operation?type=1) |
-| ✂️ Thay đổi kích thước ảnh | [Công cụ](https://surgepix.ai/tools/operation?type=4) |
-| 📺 Tạo banner YouTube | [Công cụ](https://surgepix.ai/tools/operation?type=5) |
-| 💇 Kiểu tóc AI | [Công cụ](https://surgepix.ai/tools/operation?type=6) |
-| 👨‍🍼 Ngày của Cha | [Công cụ](https://surgepix.ai/tools/operation?type=7) |
-| 👩‍🍼 Ngày của Mẹ | [Công cụ](https://surgepix.ai/tools/operation?type=8) |
-| 📊 Tạo biểu đồ cột | [Công cụ](https://surgepix.ai/tools/operation?type=9) |
-| 🥧 Tạo biểu đồ tròn | [Công cụ](https://surgepix.ai/tools/operation?type=10) |
-| 🔵 Sơ đồ Venn | [Công cụ](https://surgepix.ai/tools/operation?type=11) |
+| 📊 Thư viện Prompt PPT | [surgepix.ai](https://surgepix.ai/resources/vi/awesome-ppt-prompts) |
+| 🖼️ PDF sang JPG | [surgepix.ai](https://surgepix.ai/tools/operation?type=1) |
+| ✂️ Thay đổi kích thước ảnh | [surgepix.ai](https://surgepix.ai/tools/operation?type=4) |
+| 📺 Tạo banner YouTube | [surgepix.ai](https://surgepix.ai/tools/operation?type=5) |
+| 💇 Kiểu tóc AI | [surgepix.ai](https://surgepix.ai/tools/operation?type=6) |
+| 👨‍🍼 Ngày của Cha | [surgepix.ai](https://surgepix.ai/tools/operation?type=7) |
+| 👩‍🍼 Ngày của Mẹ | [surgepix.ai](https://surgepix.ai/tools/operation?type=8) |
+| 📊 Tạo biểu đồ cột | [surgepix.ai](https://surgepix.ai/tools/operation?type=9) |
+| 🥧 Tạo biểu đồ tròn | [surgepix.ai](https://surgepix.ai/tools/operation?type=10) |
+| 🔵 Sơ đồ Venn | [surgepix.ai](https://surgepix.ai/tools/operation?type=11) |
 
 ---
 
@@ -411,7 +427,7 @@ Tìm hiểu thêm: [Hướng dẫn GPT-Image-2 của SurgePix](https://surgepix.
 
 - Theo dõi trên [X / Twitter](https://x.com/surgepix_AI)
 - Tham gia [Discord](https://discord.gg/wC5XeHN6fR)
-- Truy cập [surgepix.ai](https://surgepix.ai)
+- Truy cập [surgepix.ai](https://surgepix.ai/)
 
 ---
 

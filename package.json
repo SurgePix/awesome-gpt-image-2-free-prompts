@@ -1,12 +1,11 @@
 {
   "name": "awesome-gpt-image-2-free-prompts",
-  "version": "1.0.0",
-  "description": "Curated free GPT Image 2 prompt library",
+  "version": "2.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Curated GPT-Image-2 prompt library",
   "type": "module",
   "scripts": {
-    "build": "node scripts/build-site.js"
-  },
-  "dependencies": {
-    "marked": "^12.0.0"
+    "generate": "node scripts/generate-readme.mjs"
   }
 }

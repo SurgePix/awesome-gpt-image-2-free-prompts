@@ -4,47 +4,39 @@
 
 </div>
 
-# 🎨 Awesome GPT-Image-2 Darmowe Prompty
+## 🎨 Awesome GPT Image 2 Prompts — Free & Open Source
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub stars](https://img.shields.io/github/stars/SurgePix/awesome-gpt-image-2-free-prompts?style=social)](https://github.com/SurgePix/awesome-gpt-image-2-free-prompts)
 
 **Najbardziej kompleksowa darmowa biblioteka promptów dla GPT-Image-2**
-
 Wyselekcjonowane prompty · Podgląd obrazów · Kopiowanie i generowanie jednym kliknięciem · Wielojęzyczna · Regularnie aktualizowana
 
-[![Prompts](https://img.shields.io/badge/Prompty-367%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
-[![Weekly Updated](https://img.shields.io/badge/Aktualizacja-Co%20tydzień-4ecdc4?style=flat-square)](#)
-[![Languages](https://img.shields.io/badge/Języki-6%2B-45b7d1?style=flat-square)](#-wsparcie-wielojęzyczne)
-[![License](https://img.shields.io/badge/Licencja-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Strona-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
+[![EN](https://img.shields.io/badge/EN-English-lightgrey?style=flat-square)](README.md)
+[![ZH](https://img.shields.io/badge/ZH-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey?style=flat-square)](README_zh.md)
+[![ZH-HANT](https://img.shields.io/badge/ZH-HANT-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey?style=flat-square)](README_zh-Hant.md)
+[![JA](https://img.shields.io/badge/JA-%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey?style=flat-square)](README_ja.md)
+[![KO](https://img.shields.io/badge/KO-%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey?style=flat-square)](README_ko.md)
+[![TH](https://img.shields.io/badge/TH-%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey?style=flat-square)](README_th.md)
+[![ID](https://img.shields.io/badge/ID-Bahasa%20Indonesia-lightgrey?style=flat-square)](README_id.md)
+[![VI](https://img.shields.io/badge/VI-Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey?style=flat-square)](README_vi.md)
+[![DE](https://img.shields.io/badge/DE-Deutsch-lightgrey?style=flat-square)](README_de.md)
+[![FR](https://img.shields.io/badge/FR-Fran%C3%A7ais-lightgrey?style=flat-square)](README_fr.md)
+[![ES](https://img.shields.io/badge/ES-Espa%C3%B1ol-lightgrey?style=flat-square)](README_es.md)
+[![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
+[![PL](https://img.shields.io/badge/PL-Polski-brightgreen?style=flat-square)](#)
 
-[![EN](https://img.shields.io/badge/EN-English-blue?style=flat-square)](README.md)
-[![ZH](https://img.shields.io/badge/ZH-%E4%B8%AD%E6%96%87-red?style=flat-square)](README_zh.md)
-[![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-orange?style=flat-square)](README_tr.md)
-[![VI](https://img.shields.io/badge/VI-Ti%E1%BA%BFng%20Vi%E1%BB%87t-green?style=flat-square)](README_vi.md)
-[![PL](https://img.shields.io/badge/PL-Polski-purple?style=flat-square)](README_pl.md)
-[![ID](https://img.shields.io/badge/ID-Indonesia-teal?style=flat-square)](README_id.md)
+[![Prompty](https://img.shields.io/badge/Prompty-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
+[![Języki](https://img.shields.io/badge/J%C4%99zyki-13-45b7d1?style=flat-square)](#-wsparcie-wieloj-zyczne)
+[![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
 
-> Największa darmowa biblioteka **promptów GPT Image 2** — obejmuje fotorealizm,
-> typografię, UI/UX, screenshoty z gier, projektowanie postaci i ilustrację komercyjną.
-> 9000+ gotowych promptów, dostępnych w wielu językach.
-
-## Spis treści
-
-- [Funkcje](#features)
-- [Kategorie](#categories)
-- [Polecane prompty](#featured-prompts)
-- [Wsparcie wielojęzyczne](#multilingual-support)
-- [Jak używać](#how-to-use)
-- [Śledzenie źródeł](#source-tracing)
-- [O GPT-Image-2](#about-gpt-image-2)
-- [Wkład](CONTRIBUTING.md)
+> Największa darmowa biblioteka **promptów GPT Image 2** — obejmuje fotorealizm, typografię, UI/UX, screenshoty z gier, projektowanie postaci i ilustrację komercyjną. 9000+ gotowych promptów, dostępnych w wielu językach.
 
 [**→ Przeglądaj Pełną Bibliotekę**](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
 
 [![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-gpt-image-2-prompt.png)](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
-
 
 ---
 
@@ -65,10 +57,26 @@ Wyselekcjonowane prompty · Podgląd obrazów · Kopiowanie i generowanie jednym
 
 ## 🗂️ Kategorie
 
-| 🖼️ Oficjalne OpenAI | 🎨 Plakat / Anime | 📐 Siatka / Kolaż | 📸 Fotografia |
-|---|---|---|---|
-| 👤 Portret | 💻 UI / UX | 🏛️ Architektura | 📦 Produkt |
-| ✏️ Ilustracja | 🎄 Festiwal / Święto | 🎭 Postać | ➕ Regularnie dodawane |
+<table>
+<tr>
+<td>🖼️ Oficjalne OpenAI</td>
+<td>🎨 Plakat / Anime</td>
+<td>📐 Siatka / Kolaż</td>
+<td>📸 Fotografia</td>
+</tr>
+<tr>
+<td>👤 Portret</td>
+<td>💻 UI / UX</td>
+<td>🏛️ Architektura</td>
+<td>📦 Produkt</td>
+</tr>
+<tr>
+<td>✏️ Ilustracja</td>
+<td>🎄 Festiwal / Święto</td>
+<td>🎭 Postać</td>
+<td>➕ Regularnie dodawane</td>
+</tr>
+</table>
 
 <details>
 <summary><b>🖼️ Oficjalne OpenAI</b> — Prompty z oficjalnych wydań OpenAI</summary>
@@ -171,12 +179,12 @@ Wyselekcjonowane prompty · Podgląd obrazów · Kopiowanie i generowanie jednym
 
 ## 🔥 Wyróżnione Prompty
 
-⭐ Starannie wybrane za wyjątkową jakość i kreatywność — [Przeglądaj wszystkie 367+](https://surgepix.ai/resources/gpt-image-2-prompts)
+⭐ Starannie wybrane za wyjątkową jakość i kreatywność — [Przeglądaj wszystkie 9,300+](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
 
 ---
 
 <details>
-<summary><b>No.1 · Transformacja Stylu Anime</b></summary>
+<summary><b>No.1 · No.1 · Transformacja Stylu Anime</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -197,7 +205,7 @@ Create a trending anime art style image from the uploaded subject. Use confident
 ---
 
 <details>
-<summary><b>No.2 · Plakat Blueprintowy</b></summary>
+<summary><b>No.2 · No.2 · Plakat Blueprintowy</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -218,7 +226,7 @@ Create a single-subject blueprint poster using only the main subject from the up
 ---
 
 <details>
-<summary><b>No.3 · Nocna Fotografia z Flesze</b></summary>
+<summary><b>No.3 · No.3 · Nocna Fotografia z Flesze</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -239,7 +247,7 @@ Transform the photo into nighttime chic flash photography. Use harsh direct on-c
 ---
 
 <details>
-<summary><b>No.4 · Filmowa Taśma Kinowa</b></summary>
+<summary><b>No.4 · No.4 · Filmowa Taśma Kinowa</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -260,7 +268,7 @@ Transform the uploaded image into cinematic 3-frame sequential film stills (hori
 ---
 
 <details>
-<summary><b>No.5 · Siatka Projektowania Ikon</b></summary>
+<summary><b>No.5 · No.5 · Siatka Projektowania Ikon</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -281,7 +289,7 @@ Transform this image into a grid of minimalist logos using the main subject as t
 ---
 
 <details>
-<summary><b>No.6 · Awatar Figurki 3D Designer</b></summary>
+<summary><b>No.6 · No.6 · Awatar Figurki 3D Designer</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![OpenAI Official](https://img.shields.io/badge/OpenAI%20Official-orange?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -302,7 +310,7 @@ Create a premium glossy 3D "designer toy" render of the subject(s) using the upl
 ---
 
 <details>
-<summary><b>No.7 · Kartka Dnia Matki - Królowa Kier</b></summary>
+<summary><b>No.7 · No.7 · Kartka Dnia Matki - Królowa Kier</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![Mother's Day](https://img.shields.io/badge/Mother's%20Day-ff69b4?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -324,7 +332,7 @@ The character's face and hairstyle are completely based on a real mother's gentl
 ---
 
 <details>
-<summary><b>No.8 · Rysunek Ciągłą Linią na Dzień Matki</b></summary>
+<summary><b>No.8 · No.8 · Rysunek Ciągłą Linią na Dzień Matki</b></summary>
 
 ![EN](https://img.shields.io/badge/EN-blue?style=flat-square) ![Mother's Day](https://img.shields.io/badge/Mother's%20Day-ff69b4?style=flat-square) ![Featured](https://img.shields.io/badge/%E2%AD%90%20Featured-yellow?style=flat-square)
 
@@ -341,19 +349,26 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 [**→ Generuj z tym promptem**](https://surgepix.ai/)
 
 </details>
+
 ---
 
 ## 🌍 Wsparcie Wielojęzyczne
 
 Biblioteka dostępna jest w wielu językach, a kolejne są regularnie dodawane:
 
-- 🇺🇸 English (Angielski)
-- 🇨🇳 中文 (Chiński)
-- 🇵🇱 Polski
-- 🇻🇳 Tiếng Việt (Wietnamski)
-- 🇮🇩 Bahasa Indonesia (Indonezyjski)
-- 🇹🇷 Türkçe (Turecki)
-- ➕ Więcej języków wkrótce
+- 🇺🇸 [English](README.md)
+- 🇨🇳 [简体中文](README_zh.md)
+- 🇭🇰 [繁體中文](README_zh-Hant.md)
+- 🇯🇵 [日本語](README_ja.md)
+- 🇰🇷 [한국어](README_ko.md)
+- 🇹🇭 [ไทย](README_th.md)
+- 🇮🇩 [Bahasa Indonesia](README_id.md)
+- 🇻🇳 [Tiếng Việt](README_vi.md)
+- 🇩🇪 [Deutsch](README_de.md)
+- 🇫🇷 [Français](README_fr.md)
+- 🇪🇸 [Español](README_es.md)
+- 🇹🇷 [Türkçe](README_tr.md)
+- 🇵🇱 [Polski](#)
 
 ---
 
@@ -386,7 +401,7 @@ GPT-Image-2 to najnowszy model generowania obrazów OpenAI, znany z:
 - Precyzyjnego realizowania szczegółowych instrukcji
 - Wysokiej jakości plakatów, infografik, makiet UI i arkuszy postaci
 
-Dowiedz się więcej: [Przewodnik GPT-Image-2 od SurgePix](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
+Dowiedz się więcej: [GPT-Image-2 Guide by SurgePix](https://surgepix.ai/blog/resources/chatgpt-images-2-0)
 
 ---
 
@@ -395,24 +410,24 @@ Dowiedz się więcej: [Przewodnik GPT-Image-2 od SurgePix](https://surgepix.ai/r
 | Narzędzie | Link |
 |---|---|
 | 🤖 Generator obrazów AI | [surgepix.ai](https://surgepix.ai) |
-| 📊 Biblioteka promptów PPT | [Awesome PPT Prompts](https://surgepix.ai/resources/pl/awesome-ppt-prompts) |
-| 🖼️ PDF do JPG | [Narzędzie](https://surgepix.ai/tools/operation?type=1) |
-| ✂️ Zmiana rozmiaru obrazu | [Narzędzie](https://surgepix.ai/tools/operation?type=4) |
-| 📺 Twórca banerów YouTube | [Narzędzie](https://surgepix.ai/tools/operation?type=5) |
-| 💇 Fryzura AI | [Narzędzie](https://surgepix.ai/tools/operation?type=6) |
-| 👨‍🍼 Dzień Ojca | [Narzędzie](https://surgepix.ai/tools/operation?type=7) |
-| 👩‍🍼 Dzień Matki | [Narzędzie](https://surgepix.ai/tools/operation?type=8) |
-| 📊 Twórca wykresów słupkowych | [Narzędzie](https://surgepix.ai/tools/operation?type=9) |
-| 🥧 Twórca wykresów kołowych | [Narzędzie](https://surgepix.ai/tools/operation?type=10) |
-| 🔵 Diagram Venna | [Narzędzie](https://surgepix.ai/tools/operation?type=11) |
+| 📊 Biblioteka promptów PPT | [surgepix.ai](https://surgepix.ai/resources/pl/awesome-ppt-prompts) |
+| 🖼️ PDF do JPG | [surgepix.ai](https://surgepix.ai/tools/operation?type=1) |
+| ✂️ Zmiana rozmiaru obrazu | [surgepix.ai](https://surgepix.ai/tools/operation?type=4) |
+| 📺 Twórca banerów YouTube | [surgepix.ai](https://surgepix.ai/tools/operation?type=5) |
+| 💇 Fryzura AI | [surgepix.ai](https://surgepix.ai/tools/operation?type=6) |
+| 👨‍🍼 Dzień Ojca | [surgepix.ai](https://surgepix.ai/tools/operation?type=7) |
+| 👩‍🍼 Dzień Matki | [surgepix.ai](https://surgepix.ai/tools/operation?type=8) |
+| 📊 Twórca wykresów słupkowych | [surgepix.ai](https://surgepix.ai/tools/operation?type=9) |
+| 🥧 Twórca wykresów kołowych | [surgepix.ai](https://surgepix.ai/tools/operation?type=10) |
+| 🔵 Diagram Venna | [surgepix.ai](https://surgepix.ai/tools/operation?type=11) |
 
 ---
 
 ## 📬 Bądź na Bieżąco
 
 - Obserwuj nas na [X / Twitter](https://x.com/surgepix_AI)
-- Dołącz do naszego [Discorda](https://discord.gg/wC5XeHN6fR)
-- Odwiedź [surgepix.ai](https://surgepix.ai)
+- Dołącz do naszego [Discord](https://discord.gg/wC5XeHN6fR)
+- Odwiedź [surgepix.ai](https://surgepix.ai/)
 
 ---
 

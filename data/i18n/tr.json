@@ -1,0 +1,219 @@
+{
+  "tagline": "GPT-Image-2 için en kapsamlı ücretsiz prompt kütüphanesi",
+  "intro": "En büyük ücretsiz **GPT Image 2 prompt** kütüphanesi — fotorealizm, tipografi, UI/UX, oyun ekran görüntüleri, karakter tasarımı ve ticari illüstrasyonu kapsar. Birden fazla dilde 9000+ kullanıma hazır prompt.",
+  "headings": [
+    "İçindekiler",
+    "✨ Özellikler",
+    "🗂️ Kategoriler",
+    "🔥 Öne Çıkan Promptlar",
+    "🌍 Çok Dilli Destek",
+    "🚀 Nasıl Kullanılır",
+    "🔗 Kaynak Takibi",
+    "📌 GPT-Image-2 Hakkında",
+    "🛠️ SurgePix Ücretsiz Araçlar",
+    "📬 Güncel Kal"
+  ],
+  "features": [
+    {
+      "icon": "🖼️",
+      "name": "Önizleme Görselleri",
+      "desc": "Her prompt gerçek bir AI görsel önizlemesiyle geliyor"
+    },
+    {
+      "icon": "📋",
+      "name": "Tek Tıkla Kopyala",
+      "desc": "Promptu anında panoya kopyala"
+    },
+    {
+      "icon": "⚡",
+      "name": "Doğrudan Oluştur",
+      "desc": "SurgePix'e geçerek promptla hemen görsel oluştur"
+    },
+    {
+      "icon": "🌍",
+      "name": "Çok Dilli",
+      "desc": "Promptlar ve arayüz birden fazla dilde mevcut"
+    },
+    {
+      "icon": "🔍",
+      "name": "Kategori Filtreleri",
+      "desc": "Stil, kullanım amacı veya içerik türüne göre gözat"
+    },
+    {
+      "icon": "🔗",
+      "name": "Kaynak Takibi",
+      "desc": "Her topluluk promptu orijinal sosyal medya paylaşımına bağlı"
+    },
+    {
+      "icon": "📅",
+      "name": "Düzenli Güncelleme",
+      "desc": "Her gün en iyi içerik üreticilerinden yeni promptlar ekleniyor"
+    },
+    {
+      "icon": "🆓",
+      "name": "Tamamen Ücretsiz",
+      "desc": "Giriş yok, ücretli engel yok"
+    }
+  ],
+  "categoryGrid": [
+    "🖼️ OpenAI Resmi",
+    "🎨 Poster / Anime",
+    "📐 Izgara / Kolaj",
+    "📸 Fotoğrafçılık",
+    "👤 Portre",
+    "💻 UI / UX",
+    "🏛️ Mimari",
+    "📦 Ürün",
+    "✏️ İllüstrasyon",
+    "🎄 Festival / Tatil",
+    "🎭 Karakter",
+    "➕ Düzenli olarak ekleniyor"
+  ],
+  "categories": [
+    {
+      "title": "🖼️ OpenAI Resmi",
+      "blurb": "OpenAI'nin resmi yayınlarından promptlar",
+      "items": [
+        "**Anime Stili** — Herhangi bir fotoğrafı cel shading ve abartılı ifadelerle trend anime sanatına dönüştür",
+        "**Blueprint Posteri** — Konuları koyu kobalt mavi arka planda beyaz teknik şematik çizime dönüştür",
+        "**Film Şeridi** — Fotoğrafları analog film dokusuyla sinematik 3 kareli film fragmanına çevir",
+        "**Çizgi Roman** — Sahneleri yarım ton dokulu retro Amerikan çizgi roman stilinde yeniden yarat",
+        "**İkon Tasarım Izgara** — Konuyu 16–20 minimalist vektör logo varyasyonuna soyutla",
+        "**Tarot Kartı** — Klasik Rider-Waite el çizimi stilinde kişiselleştirilmiş tarot kartı oluştur",
+        "**3D Avatar** — Şekillendirici saç ve retro güneş gözlüğüyle parlak tasarımcı oyuncak vinil render oluştur",
+        "**Vintage Botanik** — Konuyu 19. yüzyıl bilimsel atlas illüstrasyonu olarak yorumla"
+      ]
+    },
+    {
+      "title": "🎄 Anneler Günü / Festival",
+      "blurb": "Mevsimsel tebrik kartları ve tatil sanatı",
+      "items": [
+        "**Kız Kupa Kart** — Annenin yüzünün kraliçenin yerine geçtiği guaj boya stili oyun kartı",
+        "**Düz İllüstrasyon Kartı** — Minimalist tek renkli pembe-kırmızı oyun kartı posteri",
+        "**Karanfil Fotoğrafı** — Yazı alanı bırakılmış, yumuşak bokeh karanfil arka planlı gerçekçi kart",
+        "**Matisse Lale Kartı** — Matisse'in kesme kâğıt tekniğinden ilham alan soyut düz lale düzenlemesi",
+        "**Sürekli Çizgi Resim** — Gül motifiyle örülmüş tek vuruşluk anne-çocuk portresi"
+      ]
+    },
+    {
+      "title": "🎨 Poster / Anime",
+      "blurb": "Stilize karakter sanatı ve grafik posterler",
+      "items": [
+        "Fotoğraf referanslı anime karakter dönüşümü",
+        "Kalın tipografili retro poster tasarımı",
+        "Özel renk paletli düz illüstrasyon etkinlik posterleri"
+      ]
+    },
+    {
+      "title": "📐 Izgara / Kolaj",
+      "blurb": "Çok panelli düzenler ve bileşik tasarımlar",
+      "items": [
+        "4 panelli duygu panosu kolajları",
+        "Sıralı hikaye ızgara düzenleri",
+        "Önce/sonra karşılaştırma ızgaraları"
+      ]
+    },
+    {
+      "title": "📸 Fotoğrafçılık",
+      "blurb": "Sinematik ve editoryal fotoğraf stilleri",
+      "items": [
+        "**Gece Flaşı** — Derin gölgeler ve parlak vurgularla sert kameraya monte flaş",
+        "**Film Taneli Sinematik** — Hareket bulanıklığıyla soğuk tonlu yüksek kontrastlı film karesi",
+        "**İç Mekan Tasarımı** — Mid-century modern stil gerçekçi oda dönüşümü"
+      ]
+    },
+    {
+      "title": "👤 Portre",
+      "blurb": "Karakter ve insan odaklı üretimler",
+      "items": [
+        "Fotoğraftan stilize anime portresi",
+        "3D vinil tasarımcı oyuncak avatarı",
+        "Kişiselleştirilmiş tarot kartı portresi"
+      ]
+    },
+    {
+      "title": "💻 UI / UX",
+      "blurb": "Arayüz prototipleri ve uygulama tasarım görselleri",
+      "items": [
+        "Mobil uygulama ekran prototipleri",
+        "Gösterge paneli ve veri görselleştirme UI",
+        "Açılış sayfası tel kafes illüstrasyonları"
+      ]
+    },
+    {
+      "title": "🏛️ Mimari",
+      "blurb": "Binalar, mekanlar ve yapısal sanat",
+      "items": [
+        "Dış mekan mimari renderlama",
+        "İç mekan tasarım dönüşümü",
+        "Blueprint tarzı teknik diyagram"
+      ]
+    },
+    {
+      "title": "📦 Ürün",
+      "blurb": "Ticari ürün görselleştirme",
+      "items": [
+        "Temiz arka planlı ürün fotoğrafçılığı",
+        "Ambalaj tasarımı prototipleri",
+        "Logo ve marka kimliği ızgaraları"
+      ]
+    },
+    {
+      "title": "✏️ İllüstrasyon",
+      "blurb": "El çizimi ve dijital sanat stilleri",
+      "items": [
+        "Vintage botanik bilimsel illüstrasyon",
+        "Sürekli çizgi minimalist sanat",
+        "Suluboya ve guaj doku stilleri"
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "title": "No.1 · Anime Stil Dönüşümü",
+      "description": "Yüklenen herhangi bir fotoğrafı abartılı oranlar, cel shading ve komik enerjiyle trend anime sanat stiline dönüştürür."
+    },
+    {
+      "title": "No.2 · Blueprint Posteri",
+      "description": "Herhangi bir konuyu şematik etiketlerle derin kobalt mavi arka planda temiz beyaz teknik çizgiye dönüştürür."
+    },
+    {
+      "title": "No.3 · Gece Flaş Fotoğrafçılığı",
+      "description": "Herhangi bir fotoğrafı sert flaş, derin gölgeler ve ham moda-gece hayatı estetiğiyle candid gece editoryal çekimine dönüştürür."
+    },
+    {
+      "title": "No.4 · Sinematik Film Şeridi",
+      "description": "Tek bir fotoğrafı analog film tanesi, hareket bulanıklığı ve nostaljik renk derecelendirmesiyle 3 sinematik film karesine dönüştürür."
+    },
+    {
+      "title": "No.5 · İkon Tasarım Izgarası",
+      "description": "Herhangi bir konuyu geometrik, çizgi sanat, rozet ve monogram stillerini kapsayan 16–20 minimalist vektör logo varyasyonuna soyutlar."
+    },
+    {
+      "title": "No.6 · 3D Tasarımcı Oyuncak Avatarı",
+      "description": "Herhangi bir kişi için heykelsi saç, retro güneş gözlüğü ve mavi gökyüzü arka planlı stüdyo aydınlatmasıyla premium parlak 3D vinil oyuncak render oluşturur."
+    },
+    {
+      "title": "No.7 · Anneler Günü Kız Kupa Kart",
+      "description": "Annenin yüzünün kraliçenin yerine geçtiği guaj boya stili çift taraflı Kız Kupa oyun kartı oluşturur — kişiselleştirilmiş hediye için mükemmel."
+    },
+    {
+      "title": "No.8 · Anneler Günü Sürekli Çizgi Resim",
+      "description": "Gül motifiyle örülmüş tek vuruşluk anne-çocuk portresi; krem rengi arka planda zarif el yazısı mesajla."
+    }
+  ],
+  "toolNames": [
+    "🤖 AI Görsel Oluşturucu",
+    "📊 PPT Prompt Kütüphanesi",
+    "🖼️ PDF'den JPG'ye",
+    "✂️ Görsel Yeniden Boyutlandırma",
+    "📺 YouTube Banner Yapıcı",
+    "💇 AI Saç Modeli",
+    "👨‍🍼 Babalar Günü",
+    "👩‍🍼 Anneler Günü",
+    "📊 Çubuk Grafik Yapıcı",
+    "🥧 Pasta Grafik Yapıcı",
+    "🔵 Venn Diyagramı"
+  ],
+  "toolLinkLabel": "surgepix.ai"
+}

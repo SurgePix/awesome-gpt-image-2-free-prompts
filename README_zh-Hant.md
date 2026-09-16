@@ -27,16 +27,16 @@
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![提示詞](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%A9%9E-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts)
+[![提示詞](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%A9%9E-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 [![語言](https://img.shields.io/badge/%E8%AA%9E%E8%A8%80-13-45b7d1?style=flat-square)](#--)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 > 9,300+免費 **GPT Image 2 提示詞**庫 — 涵蓋真實攝影、文字排版、UI/UX、遊戲截圖、角色設計和商業插畫。即用提示詞，支援多種語言。
 
-[**→ 瀏覽完整提示詞庫**](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts)
+[**→ 瀏覽完整提示詞庫**](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -179,7 +179,7 @@
 
 ## 🔥 精選提示詞
 
-⭐ 由團隊精心挑選，品質與創意俱佳 — [瀏覽全部 9,300+](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts)
+⭐ 由團隊精心挑選，品質與創意俱佳 — [瀏覽全部 9,300+](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -375,7 +375,7 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 ## 🚀 使用方法
 
 **方式一 — 使用網站（推薦）**
-1. 前往 [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts)
+1. 前往 [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/zh-Hant/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 2. 瀏覽或按分類篩選
 3. 點擊 **複製** 複製提示詞，或點擊 **生成** 直接建立圖片
 

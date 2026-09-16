@@ -27,16 +27,16 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![Prompts](https://img.shields.io/badge/Prompts-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 [![Languages](https://img.shields.io/badge/Languages-13-45b7d1?style=flat-square)](#-multilingual-support)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 > The largest free library of **GPT Image 2 prompts** — covering photorealism, typography, UI/UX mockups, game screenshots, character design, and commercial illustration. 9,300+ copy-ready prompts for OpenAI's gpt-image-2 model. Free & open source, multi languages.
 
-[**→ Browse the Full Library**](https://surgepix.ai/resources/gpt-image-2-prompts)
+[**→ Browse the Full Library**](https://surgepix.ai/resources/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -179,7 +179,7 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 
 ## 🔥 Featured Prompts
 
-⭐ Hand-picked for exceptional quality and creativity — [Browse all 9,300+](https://surgepix.ai/resources/gpt-image-2-prompts)
+⭐ Hand-picked for exceptional quality and creativity — [Browse all 9,300+](https://surgepix.ai/resources/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -375,7 +375,7 @@ The library is available in multiple languages, with more being added regularly:
 ## 🚀 How to Use
 
 **Option 1 — Use the website (recommended)**
-1. Go to [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/gpt-image-2-prompts)
+1. Go to [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 2. Browse or filter by category
 3. Click **Copy** to copy the prompt, or **Generate** to create the image directly
 **Option 2 — Use prompts in ChatGPT / OpenAI API**

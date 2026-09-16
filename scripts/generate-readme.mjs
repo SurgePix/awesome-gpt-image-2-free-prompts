@@ -33,8 +33,11 @@ const LOCALES = [
   { code: 'pl', file: 'README_pl.md', label: 'Polski', flag: '🇵🇱', badge: 'PL' },
 ];
 
-const galleryUrl = (code) =>
-  code === 'en' ? links.gallery : `https://surgepix.ai/resources/${code}/gpt-image-2-prompts`;
+const GITHUB_UTM = 'utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme';
+const galleryUrl = (code) => {
+  const base = code === 'en' ? links.gallery : `https://surgepix.ai/resources/${code}/gpt-image-2-prompts`;
+  return base + (base.includes('?') ? '&' : '?') + GITHUB_UTM;
+};
 
 /* Resource pages exist per locale, so sibling links (the PPT library in the
    tools table) should point at the reader's language too. */

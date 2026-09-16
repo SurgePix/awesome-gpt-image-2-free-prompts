@@ -27,16 +27,16 @@ Prompt pilihan · Pratinjau gambar · Salin & buat dengan 1 klik · Multibahasa 
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![Prompt](https://img.shields.io/badge/Prompt-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/id/gpt-image-2-prompts)
+[![Prompt](https://img.shields.io/badge/Prompt-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/id/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 [![Bahasa](https://img.shields.io/badge/Bahasa-13-45b7d1?style=flat-square)](#-dukungan-multibahasa)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/id/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/id/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 > Perpustakaan **prompt GPT Image 2** gratis terbesar — mencakup fotorealisme, tipografi, UI/UX, screenshot game, desain karakter, dan ilustrasi komersial. 9,300+ prompt siap pakai, tersedia dalam berbagai bahasa.
 
-[**→ Jelajahi Perpustakaan Lengkap**](https://surgepix.ai/resources/id/gpt-image-2-prompts)
+[**→ Jelajahi Perpustakaan Lengkap**](https://surgepix.ai/resources/id/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/id/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/id-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/id/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -179,7 +179,7 @@ Prompt pilihan · Pratinjau gambar · Salin & buat dengan 1 klik · Multibahasa 
 
 ## 🔥 Prompt Unggulan
 
-⭐ Dipilih dengan teliti untuk kualitas dan kreativitas luar biasa — [Lihat semua 9,300+](https://surgepix.ai/resources/id/gpt-image-2-prompts)
+⭐ Dipilih dengan teliti untuk kualitas dan kreativitas luar biasa — [Lihat semua 9,300+](https://surgepix.ai/resources/id/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -375,7 +375,7 @@ Perpustakaan ini tersedia dalam berbagai bahasa dan terus bertambah:
 ## 🚀 Cara Menggunakan
 
 **Opsi 1 — Gunakan website (disarankan)**
-1. Buka [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/id/gpt-image-2-prompts)
+1. Buka [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/id/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 2. Jelajahi atau filter berdasarkan kategori
 3. Klik **Salin** untuk menyalin prompt, atau **Buat** untuk langsung membuat gambar
 

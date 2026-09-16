@@ -27,16 +27,16 @@ Kuratierte Prompts · Vorschaubilder · Ein-Klick-Kopie & Generierung · Mehrspr
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![Prompts](https://img.shields.io/badge/Prompts-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/de/gpt-image-2-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/de/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 [![Sprachen](https://img.shields.io/badge/Sprachen-13-45b7d1?style=flat-square)](#-mehrsprachige-unterst-tzung)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/de/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/de/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 > 9,300+ kostenlose **GPT Image 2 Prompts** — für Fotorealismus, Typografie, UI/UX-Mockups, Game-Screenshots, Charakterdesign und kommerzielle Illustration. Kopierfertige Prompts, mehrsprachig.
 
-[**→ Vollständige Bibliothek durchsuchen**](https://surgepix.ai/resources/de/gpt-image-2-prompts)
+[**→ Vollständige Bibliothek durchsuchen**](https://surgepix.ai/resources/de/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/de/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/de/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -179,7 +179,7 @@ Kuratierte Prompts · Vorschaubilder · Ein-Klick-Kopie & Generierung · Mehrspr
 
 ## 🔥 Ausgewählte Prompts
 
-⭐ Handverlesen nach herausragender Qualität und Kreativität — [Alle ansehen 9,300+](https://surgepix.ai/resources/de/gpt-image-2-prompts)
+⭐ Handverlesen nach herausragender Qualität und Kreativität — [Alle ansehen 9,300+](https://surgepix.ai/resources/de/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -375,7 +375,7 @@ Die Bibliothek ist in mehreren Sprachen verfügbar, weitere kommen laufend hinzu
 ## 🚀 Verwendung
 
 **Option 1 — Website nutzen (empfohlen)**
-1. Zu [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/de/gpt-image-2-prompts) gehen
+1. Zu [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/de/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme) gehen
 2. Nach Kategorie durchsuchen oder filtern
 3. **Kopieren** für den Prompt, oder **Generieren** zum direkten Erstellen des Bildes
 

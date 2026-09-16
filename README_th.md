@@ -27,16 +27,16 @@
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![พรอมต์](https://img.shields.io/badge/%E0%B8%9E%E0%B8%A3%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B9%8C-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+[![พรอมต์](https://img.shields.io/badge/%E0%B8%9E%E0%B8%A3%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B9%8C-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 [![ภาษา](https://img.shields.io/badge/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-13-45b7d1?style=flat-square)](#--)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 > คลัง **พรอมต์ GPT Image 2** ฟรี 9,300+ รายการ — ครอบคลุมภาพเสมือนจริง งานตัวอักษร UI/UX ภาพหน้าจอเกม การออกแบบตัวละคร และภาพประกอบเชิงพาณิชย์ พรอมต์พร้อมคัดลอกใช้ รองรับหลายภาษา
 
-[**→ เรียกดูคลังทั้งหมด**](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+[**→ เรียกดูคลังทั้งหมด**](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -179,7 +179,7 @@
 
 ## 🔥 พรอมต์แนะนำ
 
-⭐ คัดสรรด้วยมือเพื่อคุณภาพและความคิดสร้างสรรค์ที่โดดเด่น — [ดูทั้งหมด 9,300+](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+⭐ คัดสรรด้วยมือเพื่อคุณภาพและความคิดสร้างสรรค์ที่โดดเด่น — [ดูทั้งหมด 9,300+](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -375,7 +375,7 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 ## 🚀 วิธีใช้
 
 **ตัวเลือกที่ 1 — ใช้เว็บไซต์ (แนะนำ)**
-1. ไปที่ [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+1. ไปที่ [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 2. เรียกดูหรือกรองตามหมวดหมู่
 3. คลิก **คัดลอก** เพื่อคัดลอกพรอมต์ หรือ **สร้าง** เพื่อสร้างภาพโดยตรง
 

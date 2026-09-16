@@ -27,16 +27,16 @@ Seçilmiş promptlar · Önizleme görselleri · Tek tıkla kopyala & oluştur �
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-brightgreen?style=flat-square)](#)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![Promptlar](https://img.shields.io/badge/Promptlar-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
+[![Promptlar](https://img.shields.io/badge/Promptlar-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/tr/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 [![Diller](https://img.shields.io/badge/Diller-13-45b7d1?style=flat-square)](#--ok-dilli-destek)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/tr/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 > En büyük ücretsiz **GPT Image 2 prompt** kütüphanesi — fotorealizm, tipografi, UI/UX, oyun ekran görüntüleri, karakter tasarımı ve ticari illüstrasyonu kapsar. Birden fazla dilde 9,300+ kullanıma hazır prompt.
 
-[**→ Tam Kütüphaneye Göz At**](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
+[**→ Tam Kütüphaneye Göz At**](https://surgepix.ai/resources/tr/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-gpt-image-2-general-prompt.png)](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/tr-gpt-image-2-general-prompt.png)](https://surgepix.ai/resources/tr/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -179,7 +179,7 @@ Seçilmiş promptlar · Önizleme görselleri · Tek tıkla kopyala & oluştur �
 
 ## 🔥 Öne Çıkan Promptlar
 
-⭐ Olağanüstü kalite ve yaratıcılık için özenle seçildi — [Tümüne göz at 9,300+](https://surgepix.ai/resources/tr/gpt-image-2-prompts)
+⭐ Olağanüstü kalite ve yaratıcılık için özenle seçildi — [Tümüne göz at 9,300+](https://surgepix.ai/resources/tr/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -375,7 +375,7 @@ Kütüphane birden fazla dilde kullanılabilir ve yeni diller düzenli olarak ek
 ## 🚀 Nasıl Kullanılır
 
 **Seçenek 1 — Web sitesini kullan (önerilen)**
-1. [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/tr/gpt-image-2-prompts) adresine git
+1. [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/tr/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme) adresine git
 2. Gözat veya kategoriye göre filtrele
 3. **Kopyala**'ya tıkla ya da **Oluştur**'a tıklayarak doğrudan görsel oluştur
 

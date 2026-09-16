@@ -27,16 +27,16 @@
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![プロンプト](https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/ja/gpt-image-2-prompts)
+[![プロンプト](https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/ja/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 [![言語](https://img.shields.io/badge/%E8%A8%80%E8%AA%9E-13-45b7d1?style=flat-square)](#--)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/ja/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/ja/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 > 9,300+ の無料 **GPT Image 2 プロンプト**ライブラリ — フォトリアリズム、タイポグラフィ、UI/UX、ゲームスクリーンショット、キャラクターデザイン、商用イラストを網羅。コピーしてすぐ使えるプロンプト、多言語対応。
 
-[**→ ライブラリ全体を見る**](https://surgepix.ai/resources/ja/gpt-image-2-prompts)
+[**→ ライブラリ全体を見る**](https://surgepix.ai/resources/ja/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/ja/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/ja/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -179,7 +179,7 @@
 
 ## 🔥 注目のプロンプト
 
-⭐ 卓越した品質と創造性を基準に厳選 — [すべて見る 9,300+](https://surgepix.ai/resources/ja/gpt-image-2-prompts)
+⭐ 卓越した品質と創造性を基準に厳選 — [すべて見る 9,300+](https://surgepix.ai/resources/ja/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -375,7 +375,7 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 ## 🚀 使い方
 
 **方法 1 — ウェブサイトを使う（推奨）**
-1. [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/ja/gpt-image-2-prompts) にアクセス
+1. [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/ja/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme) にアクセス
 2. カテゴリで閲覧・絞り込み
 3. **コピー** でプロンプトをコピー、または **生成** で直接画像を作成
 

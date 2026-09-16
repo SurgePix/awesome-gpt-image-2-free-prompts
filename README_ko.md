@@ -27,16 +27,16 @@
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![프롬프트](https://img.shields.io/badge/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/ko/gpt-image-2-prompts)
+[![프롬프트](https://img.shields.io/badge/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 [![언어](https://img.shields.io/badge/%EC%96%B8%EC%96%B4-13-45b7d1?style=flat-square)](#--)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/ko/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 > 9,300+개의 무료 **GPT Image 2 프롬프트** 라이브러리 — 사실적 사진, 타이포그래피, UI/UX, 게임 스크린샷, 캐릭터 디자인, 상업 일러스트를 아우릅니다. 복사해 바로 쓰는 프롬프트, 다국어 지원.
 
-[**→ 전체 라이브러리 보기**](https://surgepix.ai/resources/ko/gpt-image-2-prompts)
+[**→ 전체 라이브러리 보기**](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/ko/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -179,7 +179,7 @@
 
 ## 🔥 추천 프롬프트
 
-⭐ 뛰어난 품질과 창의성을 기준으로 엄선 — [전체 보기 9,300+](https://surgepix.ai/resources/ko/gpt-image-2-prompts)
+⭐ 뛰어난 품질과 창의성을 기준으로 엄선 — [전체 보기 9,300+](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -375,7 +375,7 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 ## 🚀 사용 방법
 
 **방법 1 — 웹사이트 사용 (권장)**
-1. [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/ko/gpt-image-2-prompts) 접속
+1. [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme) 접속
 2. 카테고리로 탐색 또는 필터링
 3. **복사**로 프롬프트를 복사하거나 **생성**으로 바로 이미지 생성
 

@@ -27,16 +27,16 @@ Prompt được tuyển chọn · Ảnh xem trước · Sao chép & tạo ảnh 
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![Prompts](https://img.shields.io/badge/Prompts-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
+[![Prompts](https://img.shields.io/badge/Prompts-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/vi/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 [![Ngôn ngữ](https://img.shields.io/badge/Ng%C3%B4n%20ng%E1%BB%AF-13-45b7d1?style=flat-square)](#-h-tr-a-ng-n-ng-)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/vi/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 > Thư viện **prompt GPT Image 2** miễn phí lớn nhất — bao gồm chân thực, typography, UI/UX, ảnh chụp màn hình game, thiết kế nhân vật và minh họa thương mại. 9,300+ prompt sẵn sàng sử dụng, hỗ trợ nhiều ngôn ngữ.
 
-[**→ Xem Toàn Bộ Thư Viện**](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
+[**→ Xem Toàn Bộ Thư Viện**](https://surgepix.ai/resources/vi/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/vi-gpt-image-2-all-prompt.png)](https://surgepix.ai/resources/vi/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -179,7 +179,7 @@ Prompt được tuyển chọn · Ảnh xem trước · Sao chép & tạo ảnh 
 
 ## 🔥 Prompt Nổi Bật
 
-⭐ Được tuyển chọn kỹ lưỡng vì chất lượng và sáng tạo xuất sắc — [Xem tất cả 9,300+](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
+⭐ Được tuyển chọn kỹ lưỡng vì chất lượng và sáng tạo xuất sắc — [Xem tất cả 9,300+](https://surgepix.ai/resources/vi/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 
 ---
 
@@ -375,7 +375,7 @@ Thư viện hỗ trợ nhiều ngôn ngữ và sẽ tiếp tục bổ sung thêm
 ## 🚀 Cách Sử Dụng
 
 **Cách 1 — Dùng website (khuyến nghị)**
-1. Truy cập [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/vi/gpt-image-2-prompts)
+1. Truy cập [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/vi/gpt-image-2-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome_repos&utm_content=gptimg_readme)
 2. Duyệt hoặc lọc theo danh mục
 3. Nhấn **Sao chép** để lấy prompt, hoặc **Tạo ảnh** để tạo trực tiếp
 

@@ -27,16 +27,16 @@
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![พรอมต์](https://img.shields.io/badge/%E0%B8%9E%E0%B8%A3%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B9%8C-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+[![พรอมต์](https://img.shields.io/badge/%E0%B8%9E%E0%B8%A3%E0%B8%AD%E0%B8%A1%E0%B8%95%E0%B9%8C-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 [![ภาษา](https://img.shields.io/badge/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-13-45b7d1?style=flat-square)](#--)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 > คลัง **พรอมต์ GPT Image 2** ฟรี 9,300+ รายการ — ครอบคลุมภาพเสมือนจริง งานตัวอักษร UI/UX ภาพหน้าจอเกม การออกแบบตัวละคร และภาพประกอบเชิงพาณิชย์ พรอมต์พร้อมคัดลอกใช้ รองรับหลายภาษา
 
-[**→ เรียกดูคลังทั้งหมด**](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+[**→ เรียกดูคลังทั้งหมด**](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
@@ -179,7 +179,7 @@
 
 ## 🔥 พรอมต์แนะนำ
 
-⭐ คัดสรรด้วยมือเพื่อคุณภาพและความคิดสร้างสรรค์ที่โดดเด่น — [ดูทั้งหมด 9,300+](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+⭐ คัดสรรด้วยมือเพื่อคุณภาพและความคิดสร้างสรรค์ที่โดดเด่น — [ดูทั้งหมด 9,300+](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
@@ -198,7 +198,7 @@
 Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy. Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world.
 ```
 
-[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/)
+[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -219,7 +219,7 @@ Create a trending anime art style image from the uploaded subject. Use confident
 Create a single-subject blueprint poster using only the main subject from the uploaded image. Render it as a clean white technical line drawing on a deep cobalt-blue blueprint background with a subtle grid. Use flat 2D schematic linework, orthographic contours, construction lines, measurement ticks, arrows, and minimal technical labels. The composition may also include 2-3 smaller inset studies or alternate views. Keep the layout simple and balanced with no shading, no 3D, no lighting, no extra objects.
 ```
 
-[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/)
+[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -240,7 +240,7 @@ Create a single-subject blueprint poster using only the main subject from the up
 Transform the photo into nighttime chic flash photography. Use harsh direct on-camera flash with strong highlights, deep shadows, and slight overexposure on the subject. Set the scene at night with a dark, moody background while keeping realistic colors and textures. Add a candid, editorial feel, slightly imperfect framing, motion energy, and spontaneous expression. Emphasize high contrast, glossy skin highlights, and subtle film grain for a raw, fashion-nightlife aesthetic.
 ```
 
-[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/)
+[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -261,7 +261,7 @@ Transform the photo into nighttime chic flash photography. Use harsh direct on-c
 Transform the uploaded image into cinematic 3-frame sequential film stills (horizontal frames stacked vertically), full bleed edge-to-edge. Each frame should show a different moment from the same scene, with clear progression. Vary the composition, camera angle, and distances to create a sense of movement and storytelling. Use a cinematic, cooler-toned, high-contrast, deep-space blacks film with a natural color grade. Add subtle film grain, slight motion blur, and natural imperfections to emulate analog photography. Keep the composition candid and emotionally grounded, with a sense of movement and quiet storytelling. Overall aesthetic: cinematic, nostalgic, and organic, like raw film stills.
 ```
 
-[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/)
+[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -282,7 +282,7 @@ Transform the uploaded image into cinematic 3-frame sequential film stills (hori
 Transform this image into a grid of minimalist logos using the main subject as the core icon. Abstract and simplify the primary element into multiple unique vector-style logo marks. Each variation should reinterpret the same subject in different ways (geometric, line art, negative space, emblem, badge, monogram). Arrange 16-20 logos evenly on a light background. Keep designs clean, modern, with balanced spacing. Maintain consistency while exploring creative variations of the original subject as a cohesive branding logo collection.
 ```
 
-[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/)
+[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -303,7 +303,7 @@ Transform this image into a grid of minimalist logos using the main subject as t
 Create a premium glossy 3D "designer toy" render of the subject(s) using the uploaded image as the only reference. Render one floating head per person (no duplication), cropped cleanly below the jaw with a visible neck and full head comfortably framed. Style: high-quality vinyl figure with ultra-smooth, simplified forms, rounded volumes, and strong glossy reflections across key facial areas. Hair should be sculpted, glossy, and stylized, with embedded playful accessories. Include oversized retro wraparound sunglasses with vibrant, matching frame/lens colors. Use strong studio lighting with pronounced highlights. Background: blue sky with soft clouds.
 ```
 
-[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/)
+[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -325,7 +325,7 @@ Create a premium glossy 3D "designer toy" render of the subject(s) using the upl
 The character's face and hairstyle are completely based on a real mother's gentle portrait, soft and kind facial features, natural and elegant real hairstyle from the mother's photo, naive and whimsical gouache art style
 ```
 
-[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/)
+[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -346,7 +346,7 @@ The character's face and hairstyle are completely based on a real mother's gentl
 Minimalist continuous line drawing. A soft pink color line forming a minimalist portrait of a mother embracing her child. Woven into the line is a simple rose flower design, all done in one fluid stroke. Light cream background with a soft pink wash. On the right side, elegant flowing penmanship writing the word "love". Below it, small delicate handwritten text: "You gave me roots to grow, and wings to fly — but most of all, you gave me a place where both are safe. Love you, Mom." Romantic, feminine, artistic, delicate line quality, minimalist art.
 ```
 
-[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/)
+[**→ สร้างด้วยพรอมต์นี้**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -375,7 +375,7 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 ## 🚀 วิธีใช้
 
 **ตัวเลือกที่ 1 — ใช้เว็บไซต์ (แนะนำ)**
-1. ไปที่ [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/th/gpt-image-2-prompts)
+1. ไปที่ [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/th/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 2. เรียกดูหรือกรองตามหมวดหมู่
 3. คลิก **คัดลอก** เพื่อคัดลอกพรอมต์ หรือ **สร้าง** เพื่อสร้างภาพโดยตรง
 
@@ -401,7 +401,7 @@ GPT-Image-2 คือโมเดลสร้างภาพล่าสุด�
 - การทำตามพรอมต์โดยละเอียดอย่างแม่นยำ
 - โปสเตอร์ อินโฟกราฟิก ม็อกอัป UI และแผ่นตัวละครคุณภาพสูง
 
-ดูเพิ่มเติม: [คู่มือ GPT-Image-2 โดย SurgePix](https://surgepix.ai/blog/resources/chatgpt-images-2-0)
+ดูเพิ่มเติม: [คู่มือ GPT-Image-2 โดย SurgePix](https://surgepix.ai/blog/resources/chatgpt-images-2-0?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
@@ -409,17 +409,17 @@ GPT-Image-2 คือโมเดลสร้างภาพล่าสุด�
 
 | เครื่องมือ | ลิงก์ |
 |---|---|
-| 🤖 เครื่องสร้างภาพ AI | [surgepix.ai](https://surgepix.ai) |
-| 📊 คลังพรอมต์ PPT | [surgepix.ai](https://surgepix.ai/resources/th/awesome-ppt-prompts) |
-| 🖼️ PDF เป็น JPG | [surgepix.ai](https://surgepix.ai/tools/operation?type=1) |
-| ✂️ ปรับขนาดภาพ | [surgepix.ai](https://surgepix.ai/tools/operation?type=4) |
-| 📺 สร้างแบนเนอร์ YouTube | [surgepix.ai](https://surgepix.ai/tools/operation?type=5) |
-| 💇 ทรงผม AI | [surgepix.ai](https://surgepix.ai/tools/operation?type=6) |
-| 👨‍🍼 การ์ดวันพ่อ | [surgepix.ai](https://surgepix.ai/tools/operation?type=7) |
-| 👩‍🍼 การ์ดวันแม่ | [surgepix.ai](https://surgepix.ai/tools/operation?type=8) |
-| 📊 สร้างกราฟแท่ง | [surgepix.ai](https://surgepix.ai/tools/operation?type=9) |
-| 🥧 สร้างกราฟวงกลม | [surgepix.ai](https://surgepix.ai/tools/operation?type=10) |
-| 🔵 สร้างแผนภาพเวนน์ | [surgepix.ai](https://surgepix.ai/tools/operation?type=11) |
+| 🤖 เครื่องสร้างภาพ AI | [surgepix.ai](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 📊 คลังพรอมต์ PPT | [surgepix.ai](https://surgepix.ai/resources/th/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 🖼️ PDF เป็น JPG | [surgepix.ai](https://surgepix.ai/tools/operation?type=1&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| ✂️ ปรับขนาดภาพ | [surgepix.ai](https://surgepix.ai/tools/operation?type=4&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 📺 สร้างแบนเนอร์ YouTube | [surgepix.ai](https://surgepix.ai/tools/operation?type=5&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 💇 ทรงผม AI | [surgepix.ai](https://surgepix.ai/tools/operation?type=6&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 👨‍🍼 การ์ดวันพ่อ | [surgepix.ai](https://surgepix.ai/tools/operation?type=7&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 👩‍🍼 การ์ดวันแม่ | [surgepix.ai](https://surgepix.ai/tools/operation?type=8&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 📊 สร้างกราฟแท่ง | [surgepix.ai](https://surgepix.ai/tools/operation?type=9&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 🥧 สร้างกราฟวงกลม | [surgepix.ai](https://surgepix.ai/tools/operation?type=10&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 🔵 สร้างแผนภาพเวนน์ | [surgepix.ai](https://surgepix.ai/tools/operation?type=11&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
 
 ---
 
@@ -427,12 +427,12 @@ GPT-Image-2 คือโมเดลสร้างภาพล่าสุด�
 
 - ติดตามเราที่ [X / Twitter](https://x.com/surgepix_AI)
 - เข้าร่วม [Discord](https://discord.gg/wC5XeHN6fR)
-- เยี่ยมชม [surgepix.ai](https://surgepix.ai/)
+- เยี่ยมชม [surgepix.ai](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
 <div align="center">
 
-สร้างด้วย ❤️ โดย [SurgePix](https://surgepix.ai) · อัปเดตทุกสัปดาห์ · ฟรีตลอดไป
+สร้างด้วย ❤️ โดย [SurgePix](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) · อัปเดตทุกสัปดาห์ · ฟรีตลอดไป
 
 </div>

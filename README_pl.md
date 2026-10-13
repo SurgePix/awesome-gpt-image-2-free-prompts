@@ -27,16 +27,16 @@ Wyselekcjonowane prompty · Podgląd obrazów · Kopiowanie i generowanie jednym
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-brightgreen?style=flat-square)](#)
 
-[![Prompty](https://img.shields.io/badge/Prompty-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
+[![Prompty](https://img.shields.io/badge/Prompty-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/pl/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 [![Języki](https://img.shields.io/badge/J%C4%99zyki-13-45b7d1?style=flat-square)](#-wsparcie-wieloj-zyczne)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/pl/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 > Największa darmowa biblioteka **promptów GPT Image 2** — obejmuje fotorealizm, typografię, UI/UX, screenshoty z gier, projektowanie postaci i ilustrację komercyjną. 9,300+ gotowych promptów, dostępnych w wielu językach.
 
-[**→ Przeglądaj Pełną Bibliotekę**](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
+[**→ Przeglądaj Pełną Bibliotekę**](https://surgepix.ai/resources/pl/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-gpt-image-2-prompt.png)](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/pl-gpt-image-2-prompt.png)](https://surgepix.ai/resources/pl/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
@@ -179,7 +179,7 @@ Wyselekcjonowane prompty · Podgląd obrazów · Kopiowanie i generowanie jednym
 
 ## 🔥 Wyróżnione Prompty
 
-⭐ Starannie wybrane za wyjątkową jakość i kreatywność — [Przeglądaj wszystkie 9,300+](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
+⭐ Starannie wybrane za wyjątkową jakość i kreatywność — [Przeglądaj wszystkie 9,300+](https://surgepix.ai/resources/pl/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
@@ -198,7 +198,7 @@ Wyselekcjonowane prompty · Podgląd obrazów · Kopiowanie i generowanie jednym
 Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy. Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world.
 ```
 
-[**→ Generuj z tym promptem**](https://surgepix.ai/)
+[**→ Generuj z tym promptem**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -219,7 +219,7 @@ Create a trending anime art style image from the uploaded subject. Use confident
 Create a single-subject blueprint poster using only the main subject from the uploaded image. Render it as a clean white technical line drawing on a deep cobalt-blue blueprint background with a subtle grid. Use flat 2D schematic linework, orthographic contours, construction lines, measurement ticks, arrows, and minimal technical labels. The composition may also include 2-3 smaller inset studies or alternate views. Keep the layout simple and balanced with no shading, no 3D, no lighting, no extra objects.
 ```
 
-[**→ Generuj z tym promptem**](https://surgepix.ai/)
+[**→ Generuj z tym promptem**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -240,7 +240,7 @@ Create a single-subject blueprint poster using only the main subject from the up
 Transform the photo into nighttime chic flash photography. Use harsh direct on-camera flash with strong highlights, deep shadows, and slight overexposure on the subject. Set the scene at night with a dark, moody background while keeping realistic colors and textures. Add a candid, editorial feel, slightly imperfect framing, motion energy, and spontaneous expression. Emphasize high contrast, glossy skin highlights, and subtle film grain for a raw, fashion-nightlife aesthetic.
 ```
 
-[**→ Generuj z tym promptem**](https://surgepix.ai/)
+[**→ Generuj z tym promptem**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -261,7 +261,7 @@ Transform the photo into nighttime chic flash photography. Use harsh direct on-c
 Transform the uploaded image into cinematic 3-frame sequential film stills (horizontal frames stacked vertically), full bleed edge-to-edge. Each frame should show a different moment from the same scene, with clear progression. Vary the composition, camera angle, and distances to create a sense of movement and storytelling. Use a cinematic, cooler-toned, high-contrast, deep-space blacks film with a natural color grade. Add subtle film grain, slight motion blur, and natural imperfections to emulate analog photography. Keep the composition candid and emotionally grounded, with a sense of movement and quiet storytelling. Overall aesthetic: cinematic, nostalgic, and organic, like raw film stills.
 ```
 
-[**→ Generuj z tym promptem**](https://surgepix.ai/)
+[**→ Generuj z tym promptem**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -282,7 +282,7 @@ Transform the uploaded image into cinematic 3-frame sequential film stills (hori
 Transform this image into a grid of minimalist logos using the main subject as the core icon. Abstract and simplify the primary element into multiple unique vector-style logo marks. Each variation should reinterpret the same subject in different ways (geometric, line art, negative space, emblem, badge, monogram). Arrange 16-20 logos evenly on a light background. Keep designs clean, modern, with balanced spacing. Maintain consistency while exploring creative variations of the original subject as a cohesive branding logo collection.
 ```
 
-[**→ Generuj z tym promptem**](https://surgepix.ai/)
+[**→ Generuj z tym promptem**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -303,7 +303,7 @@ Transform this image into a grid of minimalist logos using the main subject as t
 Create a premium glossy 3D "designer toy" render of the subject(s) using the uploaded image as the only reference. Render one floating head per person (no duplication), cropped cleanly below the jaw with a visible neck and full head comfortably framed. Style: high-quality vinyl figure with ultra-smooth, simplified forms, rounded volumes, and strong glossy reflections across key facial areas. Hair should be sculpted, glossy, and stylized, with embedded playful accessories. Include oversized retro wraparound sunglasses with vibrant, matching frame/lens colors. Use strong studio lighting with pronounced highlights. Background: blue sky with soft clouds.
 ```
 
-[**→ Generuj z tym promptem**](https://surgepix.ai/)
+[**→ Generuj z tym promptem**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -325,7 +325,7 @@ Create a premium glossy 3D "designer toy" render of the subject(s) using the upl
 The character's face and hairstyle are completely based on a real mother's gentle portrait, soft and kind facial features, natural and elegant real hairstyle from the mother's photo, naive and whimsical gouache art style
 ```
 
-[**→ Generuj z tym promptem**](https://surgepix.ai/)
+[**→ Generuj z tym promptem**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -346,7 +346,7 @@ The character's face and hairstyle are completely based on a real mother's gentl
 Minimalist continuous line drawing. A soft pink color line forming a minimalist portrait of a mother embracing her child. Woven into the line is a simple rose flower design, all done in one fluid stroke. Light cream background with a soft pink wash. On the right side, elegant flowing penmanship writing the word "love". Below it, small delicate handwritten text: "You gave me roots to grow, and wings to fly — but most of all, you gave me a place where both are safe. Love you, Mom." Romantic, feminine, artistic, delicate line quality, minimalist art.
 ```
 
-[**→ Generuj z tym promptem**](https://surgepix.ai/)
+[**→ Generuj z tym promptem**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -375,7 +375,7 @@ Biblioteka dostępna jest w wielu językach, a kolejne są regularnie dodawane:
 ## 🚀 Jak Używać
 
 **Opcja 1 — Użyj strony internetowej (zalecane)**
-1. Przejdź na [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/pl/gpt-image-2-prompts)
+1. Przejdź na [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/pl/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 2. Przeglądaj lub filtruj według kategorii
 3. Kliknij **Kopiuj**, aby skopiować prompt, lub **Generuj**, aby stworzyć obraz bezpośrednio
 
@@ -401,7 +401,7 @@ GPT-Image-2 to najnowszy model generowania obrazów OpenAI, znany z:
 - Precyzyjnego realizowania szczegółowych instrukcji
 - Wysokiej jakości plakatów, infografik, makiet UI i arkuszy postaci
 
-Dowiedz się więcej: [GPT-Image-2 Guide by SurgePix](https://surgepix.ai/blog/resources/chatgpt-images-2-0)
+Dowiedz się więcej: [GPT-Image-2 Guide by SurgePix](https://surgepix.ai/blog/resources/chatgpt-images-2-0?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
@@ -409,17 +409,17 @@ Dowiedz się więcej: [GPT-Image-2 Guide by SurgePix](https://surgepix.ai/blog/r
 
 | Narzędzie | Link |
 |---|---|
-| 🤖 Generator obrazów AI | [surgepix.ai](https://surgepix.ai) |
-| 📊 Biblioteka promptów PPT | [surgepix.ai](https://surgepix.ai/resources/pl/awesome-ppt-prompts) |
-| 🖼️ PDF do JPG | [surgepix.ai](https://surgepix.ai/tools/operation?type=1) |
-| ✂️ Zmiana rozmiaru obrazu | [surgepix.ai](https://surgepix.ai/tools/operation?type=4) |
-| 📺 Twórca banerów YouTube | [surgepix.ai](https://surgepix.ai/tools/operation?type=5) |
-| 💇 Fryzura AI | [surgepix.ai](https://surgepix.ai/tools/operation?type=6) |
-| 👨‍🍼 Dzień Ojca | [surgepix.ai](https://surgepix.ai/tools/operation?type=7) |
-| 👩‍🍼 Dzień Matki | [surgepix.ai](https://surgepix.ai/tools/operation?type=8) |
-| 📊 Twórca wykresów słupkowych | [surgepix.ai](https://surgepix.ai/tools/operation?type=9) |
-| 🥧 Twórca wykresów kołowych | [surgepix.ai](https://surgepix.ai/tools/operation?type=10) |
-| 🔵 Diagram Venna | [surgepix.ai](https://surgepix.ai/tools/operation?type=11) |
+| 🤖 Generator obrazów AI | [surgepix.ai](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 📊 Biblioteka promptów PPT | [surgepix.ai](https://surgepix.ai/resources/pl/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 🖼️ PDF do JPG | [surgepix.ai](https://surgepix.ai/tools/operation?type=1&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| ✂️ Zmiana rozmiaru obrazu | [surgepix.ai](https://surgepix.ai/tools/operation?type=4&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 📺 Twórca banerów YouTube | [surgepix.ai](https://surgepix.ai/tools/operation?type=5&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 💇 Fryzura AI | [surgepix.ai](https://surgepix.ai/tools/operation?type=6&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 👨‍🍼 Dzień Ojca | [surgepix.ai](https://surgepix.ai/tools/operation?type=7&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 👩‍🍼 Dzień Matki | [surgepix.ai](https://surgepix.ai/tools/operation?type=8&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 📊 Twórca wykresów słupkowych | [surgepix.ai](https://surgepix.ai/tools/operation?type=9&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 🥧 Twórca wykresów kołowych | [surgepix.ai](https://surgepix.ai/tools/operation?type=10&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 🔵 Diagram Venna | [surgepix.ai](https://surgepix.ai/tools/operation?type=11&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
 
 ---
 
@@ -427,12 +427,12 @@ Dowiedz się więcej: [GPT-Image-2 Guide by SurgePix](https://surgepix.ai/blog/r
 
 - Obserwuj nas na [X / Twitter](https://x.com/surgepix_AI)
 - Dołącz do naszego [Discord](https://discord.gg/wC5XeHN6fR)
-- Odwiedź [surgepix.ai](https://surgepix.ai/)
+- Odwiedź [surgepix.ai](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
 <div align="center">
 
-Stworzone z ❤️ przez [SurgePix](https://surgepix.ai) · Aktualizowane co tydzień · Bezpłatne na zawsze
+Stworzone z ❤️ przez [SurgePix](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) · Aktualizowane co tydzień · Bezpłatne na zawsze
 
 </div>

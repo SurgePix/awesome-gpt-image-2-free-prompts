@@ -27,16 +27,16 @@
 [![TR](https://img.shields.io/badge/TR-T%C3%BCrk%C3%A7e-lightgrey?style=flat-square)](README_tr.md)
 [![PL](https://img.shields.io/badge/PL-Polski-lightgrey?style=flat-square)](README_pl.md)
 
-[![프롬프트](https://img.shields.io/badge/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/ko/gpt-image-2-prompts)
+[![프롬프트](https://img.shields.io/badge/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-9%2C300%2B-ff6b6b?style=flat-square)](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 [![언어](https://img.shields.io/badge/%EC%96%B8%EC%96%B4-13-45b7d1?style=flat-square)](#--)
 [![License](https://img.shields.io/badge/License-MIT-a8e6cf?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/ko/gpt-image-2-prompts)
+[![Website](https://img.shields.io/badge/Website-surgepix.ai-ff8b94?style=flat-square)](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 > 9,300+개의 무료 **GPT Image 2 프롬프트** 라이브러리 — 사실적 사진, 타이포그래피, UI/UX, 게임 스크린샷, 캐릭터 디자인, 상업 일러스트를 아우릅니다. 복사해 바로 쓰는 프롬프트, 다국어 지원.
 
-[**→ 전체 라이브러리 보기**](https://surgepix.ai/resources/ko/gpt-image-2-prompts)
+[**→ 전체 라이브러리 보기**](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/ko/gpt-image-2-prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
@@ -179,7 +179,7 @@
 
 ## 🔥 추천 프롬프트
 
-⭐ 뛰어난 품질과 창의성을 기준으로 엄선 — [전체 보기 9,300+](https://surgepix.ai/resources/ko/gpt-image-2-prompts)
+⭐ 뛰어난 품질과 창의성을 기준으로 엄선 — [전체 보기 9,300+](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
@@ -198,7 +198,7 @@
 Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy. Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world.
 ```
 
-[**→ 이 프롬프트로 생성**](https://surgepix.ai/)
+[**→ 이 프롬프트로 생성**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -219,7 +219,7 @@ Create a trending anime art style image from the uploaded subject. Use confident
 Create a single-subject blueprint poster using only the main subject from the uploaded image. Render it as a clean white technical line drawing on a deep cobalt-blue blueprint background with a subtle grid. Use flat 2D schematic linework, orthographic contours, construction lines, measurement ticks, arrows, and minimal technical labels. The composition may also include 2-3 smaller inset studies or alternate views. Keep the layout simple and balanced with no shading, no 3D, no lighting, no extra objects.
 ```
 
-[**→ 이 프롬프트로 생성**](https://surgepix.ai/)
+[**→ 이 프롬프트로 생성**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -240,7 +240,7 @@ Create a single-subject blueprint poster using only the main subject from the up
 Transform the photo into nighttime chic flash photography. Use harsh direct on-camera flash with strong highlights, deep shadows, and slight overexposure on the subject. Set the scene at night with a dark, moody background while keeping realistic colors and textures. Add a candid, editorial feel, slightly imperfect framing, motion energy, and spontaneous expression. Emphasize high contrast, glossy skin highlights, and subtle film grain for a raw, fashion-nightlife aesthetic.
 ```
 
-[**→ 이 프롬프트로 생성**](https://surgepix.ai/)
+[**→ 이 프롬프트로 생성**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -261,7 +261,7 @@ Transform the photo into nighttime chic flash photography. Use harsh direct on-c
 Transform the uploaded image into cinematic 3-frame sequential film stills (horizontal frames stacked vertically), full bleed edge-to-edge. Each frame should show a different moment from the same scene, with clear progression. Vary the composition, camera angle, and distances to create a sense of movement and storytelling. Use a cinematic, cooler-toned, high-contrast, deep-space blacks film with a natural color grade. Add subtle film grain, slight motion blur, and natural imperfections to emulate analog photography. Keep the composition candid and emotionally grounded, with a sense of movement and quiet storytelling. Overall aesthetic: cinematic, nostalgic, and organic, like raw film stills.
 ```
 
-[**→ 이 프롬프트로 생성**](https://surgepix.ai/)
+[**→ 이 프롬프트로 생성**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -282,7 +282,7 @@ Transform the uploaded image into cinematic 3-frame sequential film stills (hori
 Transform this image into a grid of minimalist logos using the main subject as the core icon. Abstract and simplify the primary element into multiple unique vector-style logo marks. Each variation should reinterpret the same subject in different ways (geometric, line art, negative space, emblem, badge, monogram). Arrange 16-20 logos evenly on a light background. Keep designs clean, modern, with balanced spacing. Maintain consistency while exploring creative variations of the original subject as a cohesive branding logo collection.
 ```
 
-[**→ 이 프롬프트로 생성**](https://surgepix.ai/)
+[**→ 이 프롬프트로 생성**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -303,7 +303,7 @@ Transform this image into a grid of minimalist logos using the main subject as t
 Create a premium glossy 3D "designer toy" render of the subject(s) using the uploaded image as the only reference. Render one floating head per person (no duplication), cropped cleanly below the jaw with a visible neck and full head comfortably framed. Style: high-quality vinyl figure with ultra-smooth, simplified forms, rounded volumes, and strong glossy reflections across key facial areas. Hair should be sculpted, glossy, and stylized, with embedded playful accessories. Include oversized retro wraparound sunglasses with vibrant, matching frame/lens colors. Use strong studio lighting with pronounced highlights. Background: blue sky with soft clouds.
 ```
 
-[**→ 이 프롬프트로 생성**](https://surgepix.ai/)
+[**→ 이 프롬프트로 생성**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -325,7 +325,7 @@ Create a premium glossy 3D "designer toy" render of the subject(s) using the upl
 The character's face and hairstyle are completely based on a real mother's gentle portrait, soft and kind facial features, natural and elegant real hairstyle from the mother's photo, naive and whimsical gouache art style
 ```
 
-[**→ 이 프롬프트로 생성**](https://surgepix.ai/)
+[**→ 이 프롬프트로 생성**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -346,7 +346,7 @@ The character's face and hairstyle are completely based on a real mother's gentl
 Minimalist continuous line drawing. A soft pink color line forming a minimalist portrait of a mother embracing her child. Woven into the line is a simple rose flower design, all done in one fluid stroke. Light cream background with a soft pink wash. On the right side, elegant flowing penmanship writing the word "love". Below it, small delicate handwritten text: "You gave me roots to grow, and wings to fly — but most of all, you gave me a place where both are safe. Love you, Mom." Romantic, feminine, artistic, delicate line quality, minimalist art.
 ```
 
-[**→ 이 프롬프트로 생성**](https://surgepix.ai/)
+[**→ 이 프롬프트로 생성**](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 </details>
 
@@ -375,7 +375,7 @@ Minimalist continuous line drawing. A soft pink color line forming a minimalist 
 ## 🚀 사용 방법
 
 **방법 1 — 웹사이트 사용 (권장)**
-1. [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/ko/gpt-image-2-prompts) 접속
+1. [surgepix.ai/resources/gpt-image-2-prompts](https://surgepix.ai/resources/ko/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) 접속
 2. 카테고리로 탐색 또는 필터링
 3. **복사**로 프롬프트를 복사하거나 **생성**으로 바로 이미지 생성
 
@@ -401,7 +401,7 @@ GPT-Image-2는 OpenAI의 최신 이미지 생성 모델로, 다음으로 잘 알
 - 상세한 프롬프트에 대한 정확한 이행
 - 고품질 포스터, 인포그래픽, UI 목업, 캐릭터 시트
 
-자세히 보기: [SurgePix의 GPT-Image-2 가이드](https://surgepix.ai/blog/resources/chatgpt-images-2-0)
+자세히 보기: [SurgePix의 GPT-Image-2 가이드](https://surgepix.ai/blog/resources/chatgpt-images-2-0?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
@@ -409,17 +409,17 @@ GPT-Image-2는 OpenAI의 최신 이미지 생성 모델로, 다음으로 잘 알
 
 | 도구 | 링크 |
 |---|---|
-| 🤖 AI 이미지 생성기 | [surgepix.ai](https://surgepix.ai) |
-| 📊 PPT 프롬프트 라이브러리 | [surgepix.ai](https://surgepix.ai/resources/ko/awesome-ppt-prompts) |
-| 🖼️ PDF → JPG | [surgepix.ai](https://surgepix.ai/tools/operation?type=1) |
-| ✂️ 이미지 크기 조정 | [surgepix.ai](https://surgepix.ai/tools/operation?type=4) |
-| 📺 YouTube 배너 제작 | [surgepix.ai](https://surgepix.ai/tools/operation?type=5) |
-| 💇 AI 헤어스타일 | [surgepix.ai](https://surgepix.ai/tools/operation?type=6) |
-| 👨‍🍼 아버지날 카드 | [surgepix.ai](https://surgepix.ai/tools/operation?type=7) |
-| 👩‍🍼 어머니날 카드 | [surgepix.ai](https://surgepix.ai/tools/operation?type=8) |
-| 📊 막대그래프 제작 | [surgepix.ai](https://surgepix.ai/tools/operation?type=9) |
-| 🥧 원그래프 제작 | [surgepix.ai](https://surgepix.ai/tools/operation?type=10) |
-| 🔵 벤 다이어그램 제작 | [surgepix.ai](https://surgepix.ai/tools/operation?type=11) |
+| 🤖 AI 이미지 생성기 | [surgepix.ai](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 📊 PPT 프롬프트 라이브러리 | [surgepix.ai](https://surgepix.ai/resources/ko/awesome-ppt-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 🖼️ PDF → JPG | [surgepix.ai](https://surgepix.ai/tools/operation?type=1&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| ✂️ 이미지 크기 조정 | [surgepix.ai](https://surgepix.ai/tools/operation?type=4&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 📺 YouTube 배너 제작 | [surgepix.ai](https://surgepix.ai/tools/operation?type=5&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 💇 AI 헤어스타일 | [surgepix.ai](https://surgepix.ai/tools/operation?type=6&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 👨‍🍼 아버지날 카드 | [surgepix.ai](https://surgepix.ai/tools/operation?type=7&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 👩‍🍼 어머니날 카드 | [surgepix.ai](https://surgepix.ai/tools/operation?type=8&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 📊 막대그래프 제작 | [surgepix.ai](https://surgepix.ai/tools/operation?type=9&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 🥧 원그래프 제작 | [surgepix.ai](https://surgepix.ai/tools/operation?type=10&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
+| 🔵 벤 다이어그램 제작 | [surgepix.ai](https://surgepix.ai/tools/operation?type=11&utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts) |
 
 ---
 
@@ -427,12 +427,12 @@ GPT-Image-2는 OpenAI의 최신 이미지 생성 모델로, 다음으로 잘 알
 
 - 팔로우: [X / Twitter](https://x.com/surgepix_AI)
 - 참여: [Discord](https://discord.gg/wC5XeHN6fR)
-- 방문: [surgepix.ai](https://surgepix.ai/)
+- 방문: [surgepix.ai](https://surgepix.ai/?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
 <div align="center">
 
-[SurgePix](https://surgepix.ai)가 ❤️를 담아 제작 · 매주 업데이트 · 영원히 무료
+[SurgePix](https://surgepix.ai?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)가 ❤️를 담아 제작 · 매주 업데이트 · 영원히 무료
 
 </div>

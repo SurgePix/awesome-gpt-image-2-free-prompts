@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/banner.png" alt="awesome-gpt-image-2-free-prompts" style="max-width: 100%;" />
-
 </div>
 
 ## 🎨 Awesome GPT Image 2 Prompts — Free & Open Source
@@ -36,7 +33,7 @@ Curated prompts · Preview images · 1-click copy & generate · Multilingual · 
 
 [**→ Browse the Full Library**](https://surgepix.ai/resources/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
-[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-poster-prompt.png)](https://surgepix.ai/resources/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
+[![GPT-Image-2 Prompt Library Preview](https://udefineus-ui-prod-1316642525.cos.ap-seoul.myqcloud.com/surgepix-resources/present/gpt-image-2-prompts-social-v3-1290x640.jpg)](https://surgepix.ai/resources/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=gpt_image_prompts)
 
 ---
 
